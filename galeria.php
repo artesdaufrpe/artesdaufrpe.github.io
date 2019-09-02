@@ -39,7 +39,7 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra1.php" class="unit-1 text-center">
-              <img src="images/obras/obra1.jpg" alt="Image" class="img-fluid">
+              <img src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <strong class="text-primary mb-2 d-block">Autor: Christina Machado</strong>
                 <h3 class="unit-1-heading">Local: CEGOE</h3>
@@ -48,7 +48,7 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra2.php" class="unit-1 text-center">
-              <img src="images/obras/obra2.jpg" alt="Image" class="img-fluid">
+              <img src="images/galeria/obra2.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <strong class="text-primary mb-2 d-block">Autor: Corbiniano Lins</strong>
                 <h3 class="unit-1-heading">Local: CEGOE</h3>
@@ -56,11 +56,11 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/03-japan.jpg" alt="Image" class="img-fluid">
+            <a href="obra3.php" class="unit-1 text-center">
+              <img src="images/galeria/obra3.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor C</strong>
-                <h3 class="unit-1-heading">Local C, Recife</h3>
+                <strong class="text-primary mb-2 d-block">Autor: Laércio Dias Braga</strong>
+                <h3 class="unit-1-heading">Local: Praça em frente ao SINTURFEPE</h3>
               </div>
             </a>
           </div>

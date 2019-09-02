@@ -40,14 +40,14 @@
         </div>
       </div>  
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/hero_bg_3.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/obra3_p.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <h2 class="text-white font-weight-light">Obra de Arte 3</h2>
-              <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga est inventore ducimus repudiandae.</p>
-              <p><a href="#" class="btn btn-primary py-3 px-5 text-white">Visitar obra ></a></p>
+              <h2 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h2>
+              <p class="mb-5"><b>Autor(a):</b> Laércio Dias Braga</p>
+              <p><a href="obra3.php" class="btn btn-primary py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
           </div>
         </div>

@@ -109,7 +109,7 @@
                     <b>Data:</b> 2002 <br>
                     <b>Localização:</b> Entrada do Anfiteatro do CEGOE <br>
                   </p>
-                <p><a href="#">Leia mais</a></p>
+                  <br>
               </div>
             </div>
           </div>
@@ -118,8 +118,8 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre o Autor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
+                <p>...</p>
+                <br>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@
               <div>
                 <h3>Sobre a Obra</h3>
                 <p>Foi colocada na comemoração dos (90 anos da UFRPE).</p>
-                <p><a href="#">Leia mais</a></p>
+                <br>
               </div>
             </div>
           </div>
