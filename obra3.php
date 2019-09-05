@@ -16,7 +16,7 @@
         <div>
           
           <div id="titulo">
-            <h2><a href="index.html" class="text-white"><br>90 anos dos cursos de ciências agrárias da UFRPE</a></h2>
+            <h2><a href="index.html" class="text-white"><br>Busto do Prof. Francisco de Oliveira Magalhães</a></h2>
             <br>
           </div>
         </div>
