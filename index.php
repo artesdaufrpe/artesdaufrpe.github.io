@@ -55,7 +55,6 @@
 
     </div> <!-- Fim Carousel-->
 
-
     <div class="site-section">
       
       <div class="container overlap-section">
@@ -128,135 +127,6 @@
       </div>
     </div>
       
-    <div class="site-section block-13 bg-light">
-  
-    <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7">
-            <h2 class="font-weight-light text-black text-center">Principais obras</h2>
-          </div>
-        </div>
-
-        <div class="nonloop-block-13 owl-carousel">
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_1.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>Autor 1</em>, <a href="#">Visitar obra</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_2.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>Autor 2</em>, <a href="#">Visitar obra</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_3.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>Autor 3</em>, <a href="#">Visitar obra</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-
-
-    <div class="site-section">
-      
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center">
-            <h2 class="font-weight-light text-black">Outras obras</h2>
-            <p class="color-black-opacity-5">Visite todas as obras</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/01-greece.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor A</strong>
-                <h3 class="unit-1-heading">Local A, Recife</h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/02-rome.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor B</strong>
-                <h3 class="unit-1-heading">Local B, Recife</h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/03-japan.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor C</strong>
-                <h3 class="unit-1-heading">Local C, Recife</h3>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/04-dubai.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor D</strong>
-                <h3 class="unit-1-heading">Local D, Recife</h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/05-london.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor E</strong>
-                <h3 class="unit-1-heading">Local E, Recife</h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/06-australia.jpg" alt="Image" class="img-fluid">
-              <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor F</strong>
-                <h3 class="unit-1-heading">Local F, Recife</h3>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    
-    </div>
-
     <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url(images/hero_bg_2.jpg); background-attachment: fixed;">
       <div class="container">
         <div class="row align-items-center justify-content-center text-center">
@@ -269,82 +139,6 @@
         </div>
       </div>
     </div>  
-
-    <div class="site-section bg-light">
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center">
-            <h2 class="font-weight-light text-black">Outras informações</h2>
-            <p class="color-black-opacity-5">Detalhes das informações</p>
-          </div>
-        </div>
-        <div class="row align-items-stretch">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 1</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 2</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 3</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 4</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 5</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
-              <div>
-                <h3>Informe 6</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
 
     <div class="site-section">
       <div class="container">
@@ -387,7 +181,7 @@
             <h2 class="mb-5 text-black">Tour virtual de visitação às obras de artes visuais - murais, 
               painéis e esculturas - do campus de Dois Irmãos da Universidade Federal Rural de Pernambuco
                - UFRPE.</h2>
-            <p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5 text-white">Nosso Google Tour</a></p>
+            <p class="mb-0"><a href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM" class="btn btn-primary py-3 px-5 text-white">Nosso Google Tour</a></p>
           </div>
         </div>
       </div>
