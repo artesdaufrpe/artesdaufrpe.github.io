@@ -66,11 +66,11 @@
           </div>
 
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/04-dubai.jpg" alt="Image" class="img-fluid">
+            <a href="obra4.php" class="unit-1 text-center">
+              <img src="images/galeria/obra4.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor D</strong>
-                <h3 class="unit-1-heading">Local D, Recife</h3>
+                <strong class="text-primary mb-2 d-block">Autor: Desconhecido</strong>
+                <h3 class="unit-1-heading">Local: Copa da Biblioteca Central</h3>
               </div>
             </a>
           </div>

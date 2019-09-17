@@ -38,7 +38,7 @@
 
     <div class="slide-one-item-manual home-slider owl-carousel overlap"> <!-- Carousel begin-->
       
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra1/DSC3809_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra1/DSC3809_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
@@ -51,7 +51,7 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra1/DSC3800_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra1/DSC3800_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
@@ -64,12 +64,12 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra1/DSC3829_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra1/DSC3829_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
               <p><a href="images/obra1/DSC3829.jpg" target="_blank" class="btn py-3 px-3 mb-5" 
-                  style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.5;">
+                  style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.7;">
                   Visualizar imagem ><br/>3 de 3
               </a></p>
             </div>
@@ -91,10 +91,10 @@
                     <b>Título:</b> Sem Título <br>
                     <b>Autor(a):</b> Christina Machado <br>
                     <b>Técnica:</b> Mista <br>
-                    <b>Materiais:</b> cerâmica e pigmentos <br>
+                    <b>Materiais:</b> Cerâmica e pigmentos <br>
                     <b>Dimensão:</b> 25,60m (largura) x 2,4m (altura) <br>
                     <b>Data:</b> 1999 <br>
-                    <b>Localização:</b> subsolo do prédio CEGOE <br>
+                    <b>Localização:</b> Subsolo do prédio CEGOE <br>
                   </p>
                 <br>
               </div>
@@ -105,7 +105,29 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre o Autor</h3>
-                <p>...</p>
+                <p>
+                <b>Biografia</b> <br>
+
+                  1957, Belém - PA  <br>
+                  <br>
+                  Radicada em Recife (desde 1959), é artista plástica e ceramista desde 1978, quando iniciou sua carreira em ateliês de 
+                  desenho e pintura. Graduada em educação artística pela Universidade Federal de Pernambuco, conheceu a cerâmica no início 
+                  dos anos 80 e passou a dedicar-se ao desenvolvimento de técnicas de modelagem, desenho e pintura próprios à esta matéria. 
+                  Voltado ao desenvolvimento de uma concepção da cerâmica enquanto arte, o trabalho de Christina Machado foi inicialmente 
+                  marcado pela criação de objetos, esculturas e painéis para interiores e exteriores, onde a cerâmica integrava-se a projetos 
+                  arquitetônicos.  <br>
+                  Nos últimos cinco anos, seu trabalho tem se voltado a uma concepção da argila não apenas como suporte sobre o qual pintar 
+                  ou modelar, mas como a obra em si, enfatizando sua natureza intrínseca. Assim, a artista vem desenvolvendo técnicas para 
+                  o emprego da argila (com origens, texturas e tonalidades diversas) como cobertura ou a própria tinta a ser utilizada, 
+                  fazendo com que a argila participe como elemento essencial de todos os estágios de composição da obra.  <br>
+                  <br>
+                  <b>Fonte:</b> Biografia disponibilizada por Christina Machado
+
+                  <p><b>Disponível em:</b><a href="http://www.galeriaestacao.com.br/acervo_artista/55" target="_blank" class="btn">
+                    http://www.galeriaestacao.com.br/acervo_artista/55 <br/>
+                  </a></p>
+
+                </p>
                 <br>
               </div>
             </div>
@@ -115,7 +137,9 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre a Obra</h3>
-                <p>...</p>
+                <p>
+                A obra se encontra no salão térreo ao lado do pátio do auditório/CEGOE. 
+                </p>
                 <br>
               </div>
             </div>

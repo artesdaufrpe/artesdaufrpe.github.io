@@ -38,7 +38,7 @@
 
     <div class="slide-one-item-manual home-slider owl-carousel overlap"> <!-- Carousel begin-->
       
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/obra3_p.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra3/obra3_p.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
@@ -51,7 +51,7 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/2_DSC3694_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra3/2_DSC3694_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
@@ -64,7 +64,7 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/3_DSC3698.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra3/3_DSC3698.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
@@ -116,7 +116,13 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre a Obra</h3>
-                <p>...</p>
+                <p>
+                Sobre o busto em Homenagem ao professor Francisco, o Sr Luciano nos repassou as seguintes informações: 
+                Que na época dessa homenagem a família do professor esteve presente, que ele tem uma filha que é professora 
+                da Rural (buscar informações e contato  sobre a mesma no sindicato), sobre o evento e a inauguração da praça 
+                há um registro em ata no sinduferpe com todas as informações do evento. A ideia dessa homenagem partiu do 
+                professor Espinhara muito amigo do prof. Francisco.
+                </p>
                 <br>
               </div>
             </div>
