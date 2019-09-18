@@ -16,7 +16,7 @@
         <div>
           
           <div id="titulo">
-            <h2><a href="index.html" class="text-white"><br>Brigada Portinari (Painel 01)</a></h2>
+            <h2><a href="index.html" class="text-white"><br>Sesquicentenário dos cursos de Ciências Agrárias da UFRPE</a></h2>
             <br>
           </div>
         </div>
@@ -38,11 +38,11 @@
 
     <div class="slide-one-item-manual home-slider owl-carousel overlap"> <!-- Carousel begin-->
       
-      <div class="site-blocks-cover" style="background-image: url(images/obra4/1_DSC3714.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra4/1_DSC3726.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <p><a href="images/obra4/1_DSC3714.NEF.jpg" target="_blank" class="btn py-3 px-3 mb-5" 
+              <p><a href="images/obra4/1_DSC3726.NEF.jpg" target="_blank" class="btn py-3 px-3 mb-5" 
                   style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.5;">
                   Visualizar imagem ><br/>1 de 2
               </a></p>
@@ -51,11 +51,11 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover" style="background-image: url(images/obra4/2_DSC3713.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
+      <div class="site-blocks-cover" style="background-image: url(images/obra4/2_DSC3732.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.6">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <p><a href="images/obra4/2_DSC3713.NEF.jpg" target="_blank" class="btn py-3 px-3 mb-5" 
+              <p><a href="images/obra4/2_DSC3732.NEF.jpg" target="_blank" class="btn py-3 px-3 mb-5" 
                   style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.5;">
                   Visualizar imagem ><br/>2 de 2
               </a></p>
@@ -75,13 +75,13 @@
               <div>
                 <h3>Ficha Técnica</h3>
                   <p>
-                    <b>Título:</b> Brigada Portinari (Painel 01) <br>
-                    <b>Autor(a):</b> Desconhecido <br>
-                    <b>Técnica:</b> Pintura Mural <br>
-                    <b>Materiais:</b> Tinta de Parede <br>
-                    <b>Dimensão:</b> 3,94 (L) x 1,90 (A) <br>
-                    <b>Data:</b> 1986 <br>
-                    <b>Localização:</b> Localizado na Copa da Biblioteca Central. <br>
+                    <b>Título:</b> Sesquicentenário dos cursos de Ciências Agrárias da UFRPE <br>
+                    <b>Autor(a):</b> Corbiniano Lins <br>
+                    <b>Técnica:</b> Escultura (alto relevo) <br>
+                    <b>Materiais:</b> Granito <br>
+                    <b>Dimensão:</b> 0,95 (L) x 1,98 (A) <br>
+                    <b>Data:</b> 1987 <br>
+                    <b>Localização:</b> Praça do SINTUFEPE <br>
                   </p>
               <br>
               </div>
@@ -102,20 +102,8 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre a Obra</h3>
-                <p>Localizado na Copa da Biblioteca Central.</p>
                 <p>
-                Sobre a Brigada Portinari em conversa com Conceição e o Sr Luciano: a pintura foi realizada e a pedido da 
-                diretora Maria Lúcia que com o projeto atividade cultural e com intuito de fazer uma obra diferente, convidou 
-                pintores da brigada para executar tal tarefa. Aqui chegaram , escolheram o lugar , rebocaram a parede e como a 
-                ideia era de fazer uma pintura relacionada a ciência agrária, resolveram pintar um canavial. Pediram a alguns 
-                funcionários que servissem de modelo para a pintura, dentre eles estavam: Luciano, Sueli Manzo, Luiz, Armindo 
-                Martins, Marlene Muniz e João Marinho e alguns alunos. Ainda trabalham na Rural Luciano e Sueli Manzo, ambos na 
-                biblioteca e Armindo que trabalha em Carpina. Faleceram João Marinho, Marlene Muniz e Luiz. Sr Luciano que serviu 
-                de modelo para os painéis da Brigada Portinari nos relatou que eles utilizaram Vassouras e baldes para simular 
-                enxadas e outros objetos, Que os painéis foram pintados por três/ quatro artistas num período de uns três dias. 
-                Utilizavam tintas de parede, trinchas e pinceladas rápidas enquanto conversavam com os modelos e pintavam. 
-                Não lembra dos nomes de nenhum deles, mas acredita que quem poderia ajudar nessa informação seria Elizabeth 
-                Remígio, que realizou um estudo da Brigada Portinari ( informação de Conceição).
+                Possui uma placa indicando: Sesquincentenário dos cursos de Ciências Agrárias da UFRPE.
                 </p>
                 <br>
               </div>
