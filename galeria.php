@@ -39,58 +39,224 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra1.php" class="unit-1 text-center">
-              <img src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
+              <img id="imgs-galeria" src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Christina Machado</strong>
-                <h3 class="unit-1-heading">Local: CEGOE</h3>
+                <strong class="text-primary mb-2 d-block">Autor: CHRISTINA MACHADO</strong>
+                <h3 class="unit-1-heading">Local: PRÉDIO DO CEGOE (PILOTIS)</h3>
               </div>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra2.php" class="unit-1 text-center">
-              <img src="images/galeria/obra2.jpg" alt="Image" class="img-fluid">
+              <img id="imgs-galeria" src="images/galeria/obra2.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Corbiniano Lins</strong>
-                <h3 class="unit-1-heading">Local: CEGOE</h3>
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: PRÉDIO DO CEGOE (EM FRENTE AO AUDITÓRIO)</h3>
               </div>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra3.php" class="unit-1 text-center">
-              <img src="images/galeria/obra3.jpg" alt="Image" class="img-fluid">
+              <img id="imgs-galeria" src="images/galeria/obra3.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Laércio Dias Braga</strong>
-                <h3 class="unit-1-heading">Local: Praça em frente ao SINTURFEPE</h3>
+                <strong class="text-primary mb-2 d-block">Autor: LAÉRCIO DIAS BRAGA</strong>
+                <h3 class="unit-1-heading">Local: PRAÇA DA SINTUFERPE</h3>
               </div>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra4.php" class="unit-1 text-center">
-              <img src="images/galeria/obra4.jpg" alt="Image" class="img-fluid">
+              <img id="imgs-galeria" src="images/galeria/obra4.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Corbiniano Lins</strong>
-                <h3 class="unit-1-heading">Local: Praça do SINTUFEPE</h3>
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: PRAÇA DA SINTUFERPE</h3>
               </div>
             </a>
           </div>
-
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <a href="obra5.php" class="unit-1 text-center">
-              <img src="images/galeria/obra5.jpg" alt="Image" class="img-fluid">
+              <img id="imgs-galeria" src="images/galeria/obra5.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Desconhecido</strong>
-                <h3 class="unit-1-heading">Local: Copa da Biblioteca Central</h3>
+                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
+                <h3 class="unit-1-heading">Local: BIBLIOTECA CENTRAL</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra6.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra6.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
+                <h3 class="unit-1-heading">Local: BIBLIOTECA CENTRAL</h3>
               </div>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <a href="obra6.php" class="unit-1 text-center">
-              <img src="images/galeria/obra6.jpg" alt="Image" class="img-fluid">
+            <a href="obra7.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra7.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: Desconhecido</strong>
-                <h3 class="unit-1-heading">Local: Copa da Biblioteca Central</h3>
+                <strong class="text-primary mb-2 d-block">Autor: CORBILIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: PROPLAN (ÁREA EXTERNA)</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra8.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra8.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE TECNOLOGIA RURAL (ÁREA EXTERNA)</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra9.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra9.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: INALDA XAVIER</strong>
+                <h3 class="unit-1-heading">Local: PRÉDIO OTÁVIO GOMES (AGRONOMIA)</h3>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra10.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra10.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: LULA CARDOSO AYRES</strong>
+                <h3 class="unit-1-heading">Local: SALÃO NOBRE</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra11.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra11.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: HALL DO PRÉDIO CENTRAL</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra12.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra12.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra13.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra13.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra14.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra14.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra15.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra15.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra16.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra16.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra17.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra17.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: FRANCISCO NEVES</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra18.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra18.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra19.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra19.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra20.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra20.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra21.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra21.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra22.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra22.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra23.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra23.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <a href="obra24.php" class="unit-1 text-center">
+              <img id="imgs-galeria" src="images/galeria/obra24.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
+                <h3 class="unit-1-heading">Local: FACHADA DO ANTIGO PRÉDIO DO DEPARTAMENTO DE PESCA</h3>
               </div>
             </a>
           </div>

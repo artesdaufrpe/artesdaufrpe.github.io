@@ -113,31 +113,35 @@
               </div>
             </div>
           </div>
+
           <div> <!-- class="col-md-6 col-lg-4 mb-4 mb-lg-0"> -->
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre o Autor</h3>
-                <p>José Corbiniano Lins foi um escultor pernambucano nascido em Olinda em 1924.</p>
-                <p>Corbiniano iniciou como pintor em 1949. Em 1952, ingressa no Atelier Coletivo de Olinda.</p>
-                <p>Fez parte do movimento de Arte Moderna do Recife na década de 1950 junto com nomes como Abelardo da Hora, 
+                <p>
+                José Corbiniano Lins foi um escultor pernambucano nascido em Olinda em 1924.<br>
+                Corbiniano iniciou como pintor em 1949. Em 1952, ingressa no Atelier Coletivo de Olinda.<br>
+                Fez parte do movimento de Arte Moderna do Recife na década de 1950 junto com nomes como Abelardo da Hora, 
                 Reynaldo Fonseca, Samico e Celina Lima Verde. Participou de diversas exposições coletivas e individuais em 
                 galerias, museus, espaços culturais e Salões em Recife, Olinda, São Paulo, Rio de Janeiro, na Europa e na 
-                América Latina.</p>
-                <p>Uma de suas obras mais conhecidas é o painel de azulejos localizado na praça General Abreu e Lima, em Recife, 
+                América Latina.<br>
+                Uma de suas obras mais conhecidas é o painel de azulejos localizado na praça General Abreu e Lima, em Recife, 
                 em que representa três momentos históricos de revoluções no estado de Pernambuco: 1817 (Revolução Pernambucana), 
-                1824 (Confederação do Equador) e 1848 (Revolução Praieira).</p>
-                <p>Trabalhava ativamente em seu atelier onde recebia encomendas de esculturas.</p>
-                <p>O artista faleceu a 10 de março de 2018, em Recife, vítima de infarto, sendo sepultado no Cemitério Parque das 
-                Flores. Em sua homenagem foi nomeada uma galeria de artes no bairro de Santo Amaro, no Recife.</p>
+                1824 (Confederação do Equador) e 1848 (Revolução Praieira).<br>
+                Trabalhava ativamente em seu atelier onde recebia encomendas de esculturas.<br>
+                O artista faleceu a 10 de março de 2018, em Recife, vítima de infarto, sendo sepultado no Cemitério Parque das 
+                Flores. Em sua homenagem foi nomeada uma galeria de artes no bairro de Santo Amaro, no Recife.<br>
+                </p>
 
-                <p><b>Disponível em:</b><a href="https://pt.m.wikipedia.org/wiki/Jos%C3%A9_Corbiniano_Lins" target="_blank" class="btn">
-                https://pt.m.wikipedia.org/wiki/José_Corbiniano_Lins <br/>
-                </a></p>
+                <b>Disponível em:</b><a href="https://pt.m.wikipedia.org/wiki/Jos%C3%A9_Corbiniano_Lins" target="_blank" class="btn">
+                Wikipedia/Corbiniano<br/>
+                </a>
                 <br>
               </div>
             </div>
           </div>
+
           <div> <!-- class="col-md-6 col-lg-4 mb-4 mb-lg-0"> -->
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
