@@ -124,7 +124,7 @@
                   <b>Fonte:</b> Biografia disponibilizada por Christina Machado
 
                   <p><b>Disponível em:</b><a href="http://www.galeriaestacao.com.br/acervo_artista/55" target="_blank" class="btn">
-                    http://www.galeriaestacao.com.br/acervo_artista/55 <br/>
+                    galeriaestacao<br/>
                   </a></p>
 
                 </p>
@@ -150,6 +150,7 @@
     </div>
          
     <?php include "html/outras_obras.html" ?>
+
     <?php include "html/footer.html" ?>
 
   </div>

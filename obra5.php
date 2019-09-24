@@ -117,7 +117,7 @@
               <div>
                 <h3>Sobre a Obra</h3>
                 <p>
-                Sobre a Brigada Portinari em conversa com Conceição e o Sr Luciano: a pintura foi realizada e a pedido da 
+                Sobre a Brigada Portinari em conversa com Conceição e o Sr Luciano: a pintura foi realizada a pedido da 
                 diretora Maria Lúcia que com o projeto atividade cultural e com intuito de fazer uma obra diferente, convidou 
                 pintores da brigada para executar tal tarefa. Aqui chegaram , escolheram o lugar , rebocaram a parede e como a 
                 ideia era de fazer uma pintura relacionada a ciência agrária, resolveram pintar um canavial. Pediram a alguns 

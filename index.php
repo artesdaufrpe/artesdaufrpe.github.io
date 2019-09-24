@@ -60,24 +60,24 @@
       <div class="container overlap-section">
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+            <a href="esculturas.php" class="unit-1 text-center">
+              <img src="images/galeria/obra7.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Esculturas</h3>
               </div>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+            <a href="pinturas.php" class="unit-1 text-center">
+              <img src="images/galeria/obra10.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Pinturas</h3>
               </div>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <a href="#" class="unit-1 text-center">
-              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+            <a href="talhas.php" class="unit-1 text-center">
+              <img src="images/galeria/obra9.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Talhas</h3>
               </div>
