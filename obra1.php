@@ -59,7 +59,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center text-center">
                         <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-                            <p><a href="images/obra1/DSC3800.jpg" target="_blank" class="btn py-3 px-3 mb-5"
+                            <p><a class="btn py-3 px-3 mb-5"
                                     style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.5;"
                                     onclick="openModal();currentSlide(2)">>
                                     Visualizar imagem ><br />2 de 3
@@ -74,7 +74,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center text-center">
                         <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-                            <p><a href="images/obra1/DSC3829.jpg" target="_blank" class="btn py-3 px-3 mb-5"
+                            <p><a class="btn py-3 px-3 mb-5"
                                     style="margin-right:0%; margin-top:70%; color:rgb(255, 255, 255); opacity: 0.7;"
                                     onclick="openModal();currentSlide(3)">>
                                     Visualizar imagem ><br />3 de 3
