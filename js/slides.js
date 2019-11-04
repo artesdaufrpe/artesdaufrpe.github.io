@@ -1,10 +1,13 @@
 function openModal() {
+    document.getElementById("personScroll").style.display = "block";
     document.getElementById("myModal").style.display = "block";
     document.getElementById("overflowY").style.overflowY = "hidden";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'none';
+    
 }
 
 function closeModal() {
+    document.getElementById("personScroll").style.display = "none";
     document.getElementById("myModal").style.display = "none";
     document.getElementById("overflowY").style.overflowY = "scroll";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'block';
