@@ -31,7 +31,8 @@
         <div class="container">
 
             <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
-                <h4 class="font-size-regular"><a href="#" onclick="openModal();currentSlide(1)"><br>Fotos</a></h4>
+                <h4 class="font-size-regular" title="Ver galeria"><a href="#"
+                        onclick="openModal();currentSlide(1)"><br>Galeria</a></h4>
 
                 <p>Foto cedida pelo prof. Tadeu</p>
             </div>
@@ -40,17 +41,20 @@
 
         <div class="slide-one-item-manual home-slider owl-carousel overlap">
             <!-- Carousel begin-->
-                <div class="site-blocks-cover" href="#" onclick="openModal();currentSlide(1)" style="cursor:pointer; background-image: url(images/obra1/01p.png);"
-                    data-aos="fade" data-stellar-background-ratio="0.4">
-                </div>
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(1)"
+                style="cursor:pointer; background-image: url(images/obra1/01p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
 
-                <div class="site-blocks-cover" href="#" onclick="openModal();currentSlide(2)" style="cursor:pointer; background-image: url(images/obra1/02p.png);"
-                    data-aos="fade" data-stellar-background-ratio="0.4">
-                </div>
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(2)"
+                style="cursor:pointer; background-image: url(images/obra1/02p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
 
-                <div class="site-blocks-cover" href="#" onclick="openModal();currentSlide(3)" style="cursor:pointer; background-image: url(images/obra1/03p.png);"
-                    data-aos="fade" data-stellar-background-ratio="0.4">
-                </div>
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(3)"
+                style="cursor:pointer; background-image: url(images/obra1/03p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
 
         </div> <!-- Carousel End -->
 
@@ -147,38 +151,7 @@
     <div id="personScroll" class="scrollbar" style="display: none;">
         <div id="myModal" class="modal force-overflow">
             <span class="close cursor" onclick="closeModal()">&times;</span>
-            <div class="modal-content">
-
-                <div class="mySlides">
-                    <div class="numbertext">1 / 10</div>
-                    <img src="images/obra1/01.png" style="width:100%">
-                </div>
-
-                <div class="mySlides">
-                    <div class="numbertext">2 / 10</div>
-                    <img src="images/obra1/02.png" style="width:100%">
-                </div>
-
-                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-                <div class="caption-container">
-                    <p id="caption"></p>
-                </div>
-
-                <div class="row">
-                    <div class="column">
-                        <img class="demo cursor" src="images/obra1/01p.png" style="width:100%"
-                            onclick="currentSlide(1)">
-                    </div>
-                    <div class="column">
-                        <img class="demo cursor" src="images/obra1/02p.png" style="width:100%"
-                            onclick="currentSlide(2)">
-                    </div>
-                </div>
-
-
-            </div>
+            <?php include "teste4.html" ?>
         </div>
     </div>
     <!-- Galery End -->
