@@ -1,0 +1,382 @@
+﻿<div style="padding:0px; margin:0px; font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">
+    <!-- #region Jssor Slider Begin -->
+    <!-- Generator: Jssor Slider Composer -->
+    <!-- Source: https://www.jssor.com/demos/image-gallery.slider/=edit -->
+    <script src="js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.jssor_1_slider_init = function () {
+
+            var jssor_1_SlideshowTransitions = [
+                { $Duration: 800, x: 0.3, $During: { $Left: [0.3, 0.7] }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: -0.3, $SlideOut: true, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: -0.3, $During: { $Left: [0.3, 0.7] }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, $SlideOut: true, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: 0.3, $During: { $Top: [0.3, 0.7] }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: -0.3, $SlideOut: true, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: -0.3, $During: { $Top: [0.3, 0.7] }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: 0.3, $SlideOut: true, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, $Cols: 2, $During: { $Left: [0.3, 0.7] }, $ChessMode: { $Column: 3 }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, $Cols: 2, $SlideOut: true, $ChessMode: { $Column: 3 }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: 0.3, $Rows: 2, $During: { $Top: [0.3, 0.7] }, $ChessMode: { $Row: 12 }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: 0.3, $Rows: 2, $SlideOut: true, $ChessMode: { $Row: 12 }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: 0.3, $Cols: 2, $During: { $Top: [0.3, 0.7] }, $ChessMode: { $Column: 12 }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, y: -0.3, $Cols: 2, $SlideOut: true, $ChessMode: { $Column: 12 }, $Easing: { $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, $Rows: 2, $During: { $Left: [0.3, 0.7] }, $ChessMode: { $Row: 3 }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: -0.3, $Rows: 2, $SlideOut: true, $ChessMode: { $Row: 3 }, $Easing: { $Left: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, y: 0.3, $Cols: 2, $Rows: 2, $During: { $Left: [0.3, 0.7], $Top: [0.3, 0.7] }, $ChessMode: { $Column: 3, $Row: 12 }, $Easing: { $Left: $Jease$.$InCubic, $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, x: 0.3, y: 0.3, $Cols: 2, $Rows: 2, $During: { $Left: [0.3, 0.7], $Top: [0.3, 0.7] }, $SlideOut: true, $ChessMode: { $Column: 3, $Row: 12 }, $Easing: { $Left: $Jease$.$InCubic, $Top: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, $Delay: 20, $Clip: 3, $Assembly: 260, $Easing: { $Clip: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, $Delay: 20, $Clip: 3, $SlideOut: true, $Assembly: 260, $Easing: { $Clip: $Jease$.$OutCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, $Delay: 20, $Clip: 12, $Assembly: 260, $Easing: { $Clip: $Jease$.$InCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 },
+                { $Duration: 800, $Delay: 20, $Clip: 12, $SlideOut: true, $Assembly: 260, $Easing: { $Clip: $Jease$.$OutCubic, $Opacity: $Jease$.$Linear }, $Opacity: 2 }
+            ];
+
+            var jssor_1_options = {
+                $AutoPlay: 1,
+                $SlideshowOptions: {
+                    $Class: $JssorSlideshowRunner$,
+                    $Transitions: jssor_1_SlideshowTransitions,
+                    $TransitionsOrder: 1
+                },
+                $ArrowNavigatorOptions: {
+                    $Class: $JssorArrowNavigator$
+                },
+                $ThumbnailNavigatorOptions: {
+                    $Class: $JssorThumbnailNavigator$,
+                    $SpacingX: 5,
+                    $SpacingY: 5
+                }
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*#region responsive code begin*/
+
+            var MAX_WIDTH = 1024;
+
+            function ScaleSlider() {
+                var containerElement = jssor_1_slider.$Elmt.parentNode;
+                var containerWidth = containerElement.clientWidth;
+
+                if (containerWidth) {
+
+                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+
+                    jssor_1_slider.$ScaleWidth(expectedWidth);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+
+            ScaleSlider();
+
+            $Jssor$.$AddEvent(window, "load", ScaleSlider);
+            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+            /*#endregion responsive code end*/
+        };
+
+
+        function magnify(imgID, zoom) {
+            var img, glass, w, h, bw;
+            img = document.getElementById(imgID);
+            /*create magnifier glass:*/
+            glass = document.createElement("DIV");
+            glass.setAttribute("id", "zoom2");
+            glass.setAttribute("class", "img-magnifier-glass");
+            /*insert magnifier glass:*/
+            img.parentElement.insertBefore(glass, img);
+            /*set background properties for the magnifier glass:*/
+            glass.style.backgroundImage = "url('" + img.src + "')";
+            glass.style.backgroundRepeat = "no-repeat";
+            glass.style.backgroundSize = (img.width * zoom) + "px " + (img.height * zoom) + "px";
+            bw = 3;
+            w = glass.offsetWidth / 2;
+            h = glass.offsetHeight / 2;
+            /*execute a function when someone moves the magnifier glass over the image:*/
+            glass.addEventListener("mousemove", moveMagnifier);
+            img.addEventListener("mousemove", moveMagnifier);
+            /*and also for touch screens:*/
+            glass.addEventListener("touchmove", moveMagnifier);
+            img.addEventListener("touchmove", moveMagnifier);
+            function moveMagnifier(e) {
+                var pos, x, y;
+                /*prevent any other actions that may occur when moving over the image*/
+                e.preventDefault();
+                /*get the cursor's x and y positions:*/
+                pos = getCursorPos(e);
+                x = pos.x;
+                y = pos.y;
+                /*prevent the magnifier glass from being positioned outside the image:*/
+                if (x > img.width - (w / zoom)) { x = img.width - (w / zoom); }
+                if (x < w / zoom) { x = w / zoom; }
+                if (y > img.height - (h / zoom)) { y = img.height - (h / zoom); }
+                if (y < h / zoom) { y = h / zoom; }
+                /*set the position of the magnifier glass:*/
+                glass.style.left = (x - w) + "px";
+                glass.style.top = (y - h) + "px";
+                /*display what the magnifier glass "sees":*/
+                glass.style.backgroundPosition = "-" + ((x * zoom) - w + bw) + "px -" + ((y * zoom) - h + bw) + "px";
+            }
+            function getCursorPos(e) {
+                var a, x = 0, y = 0;
+                e = e || window.event;
+                /*get the x and y positions of the image:*/
+                a = img.getBoundingClientRect();
+                /*calculate the cursor's x and y coordinates, relative to the image:*/
+                x = e.pageX - a.left;
+                y = e.pageY - a.top;
+                /*consider any page scrolling:*/
+                x = x - window.pageXOffset;
+                y = y - window.pageYOffset;
+                return { x: x, y: y };
+            }
+        }
+
+    </script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .img-magnifier-container {
+            position: relative;
+        }
+
+        .img-magnifier-glass {
+            position: absolute;
+            border: 1px solid #ccc;
+            /* border-radius: 50%; */
+            cursor: none;
+            /*Set the size of the magnifier glass:*/
+            width: 200px;
+            height: 200px;
+        }
+
+        /*jssor slider loading skin spin css*/
+        .jssorl-009-spin img {
+            animation-name: jssorl-009-spin;
+            animation-duration: 1.6s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+
+        @keyframes jssorl-009-spin {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /*jssor slider arrow skin 106 css*/
+        .jssora106 {
+            display: block;
+            position: absolute;
+            cursor: pointer;
+        }
+
+        .jssora106 .c {
+            fill: #fff;
+            opacity: .3;
+        }
+
+        .jssora106 .a {
+            fill: none;
+            stroke: #000;
+            stroke-width: 350;
+            stroke-miterlimit: 10;
+        }
+
+        .jssora106:hover .c {
+            opacity: .5;
+        }
+
+        .jssora106:hover .a {
+            opacity: .8;
+        }
+
+        .jssora106.jssora106dn .c {
+            opacity: .2;
+        }
+
+        .jssora106.jssora106dn .a {
+            opacity: 1;
+        }
+
+        .jssora106.jssora106ds {
+            opacity: .3;
+            pointer-events: none;
+        }
+
+        /*jssor slider thumbnail skin 101 css*/
+        .jssort101 .p {
+            position: absolute;
+            top: 0;
+            left: 0;
+            box-sizing: border-box;
+            background: #000;
+        }
+
+        .jssort101 .p .cv {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 2px solid #000;
+            box-sizing: border-box;
+            z-index: 1;
+        }
+
+        .jssort101 .a {
+            fill: none;
+            stroke: #fff;
+            stroke-width: 400;
+            stroke-miterlimit: 10;
+            visibility: hidden;
+        }
+
+        .jssort101 .p:hover .cv,
+        .jssort101 .p.pdn .cv {
+            border: none;
+            border-color: transparent;
+        }
+
+        .jssort101 .p:hover {
+            padding: 2px;
+        }
+
+        .jssort101 .p:hover .cv {
+            background-color: rgba(0, 0, 0, 6);
+            opacity: .35;
+        }
+
+        .jssort101 .p:hover.pdn {
+            padding: 0;
+        }
+
+        .jssort101 .p:hover.pdn .cv {
+            border: 2px solid #fff;
+            background: none;
+            opacity: .35;
+        }
+
+        .jssort101 .pav .cv {
+            border-color: #fff;
+            opacity: .35;
+        }
+
+        .jssort101 .pav .a,
+        .jssort101 .p:hover .a {
+            visibility: visible;
+        }
+
+        .jssort101 .t {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            opacity: .6;
+        }
+
+        .jssort101 .pav .t,
+        .jssort101 .p:hover .t {
+            opacity: 1;
+        }
+    </style>
+
+    <button style="text-align:right" onclick='showZ();'>Teste On 1</button>
+    <button style="text-align:right" onclick='hideZ();'>Teste Off 1</button>
+
+    <div class="img-magnifier-container">
+        <img id="myimage2" src="img/01.png" width="600" height="400">
+    </div>
+
+    <div id="jssor_1"
+    
+        style="position:relative;margin:0 auto;top:0px;left:0px;width:1224px;height:676px;overflow:hidden;visibility:hidden;">
+        <!-- Loading Screen -->
+        <button style="text-align:right" onclick='showZ();'>Teste On 1</button>
+        <button style="text-align:right" onclick='hideZ();'>Teste Off 1</button>
+
+        <div data-u="loading" class="jssorl-009-spin"
+            style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
+        </div>
+        <div class="img-magnifier-container" data-u="slides"
+            style="cursor:default;position:relative;top:0px;left:100px;width:1024px;height:576px;overflow:hidden;">
+            <div>
+                <img style="cursor:pointer" title="Zoom da Imagem" data-u="image" src="img/01.png"
+                    onclick="window.open(this.src)" />
+                <img data-u="thumb" src="img/01p.png" />
+            </div>
+            <div>                    
+                <img id="myimage33" data-u="image" src="img/03.png" />                    
+                <img data-u="thumb" src="img/03p.png" />
+            </div>
+
+        </div>
+
+        <div class="img-magnifier-container">
+                <img id="myimage" data-u="image" src="img/03.png" />
+        </div>
+
+        <!-- Thumbnail Navigator -->
+        <div data-u="thumbnavigator" class="jssort101"
+            style="position:absolute;left:0px;bottom:0px;top:576px;width:1024px;height:100px;background-color:#000;"
+            data-autocenter="1" data-scale-bottom="0.75">
+            <div data-u="slides">
+                <div data-u="prototype" class="p" style="width:190px;height:90px;">
+                    <div data-u="thumbnailtemplate" class="t"></div>
+                    <svg viewbox="0 0 16000 16000" class="cv">
+                        <circle class="a" cx="8000" cy="8000" r="3238.1"></circle>
+                        <line class="a" x1="6190.5" y1="8000" x2="9809.5" y2="8000"></line>
+                        <line class="a" x1="8000" y1="9809.5" x2="8000" y2="6190.5"></line>
+                    </svg>
+                </div>
+            </div>
+        </div>
+        <!-- Arrow Navigator -->
+
+        <div data-u="arrowleft" class="jssora106" style="width:55px;height:55px;top:300px;left:0px;" data-scale="0.75">
+            <svg viewbox="0 0 16000 16000" style="width:100%;height:100%;top:300px;left:0px;">
+                <circle class="c" cx="8000" cy="8000" r="6260.9"></circle>
+                <polyline class="a" points="7930.4,5495.7 5426.1,8000 7930.4,10504.3 "></polyline>
+                <line class="a" x1="10573.9" y1="8000" x2="5426.1" y2="8000"></line>
+            </svg>
+        </div>
+        <div data-u="arrowright" class="jssora106" style="width:55px;height:55px;top:300px;right:0px;"
+            data-scale="0.75">
+            <svg viewbox="0 0 16000 16000" style="top:300px;right:0px;width:100%;height:100%;">
+                <circle class="c" cx="8000" cy="8000" r="6260.9"></circle>
+                <polyline class="a" points="8069.6,5495.7 10573.9,8000 8069.6,10504.3 "></polyline>
+                <line class="a" x1="5426.1" y1="8000" x2="10573.9" y2="8000"></line>
+            </svg>
+        </div>
+    </div>
+
+    <script type="text/javascript">jssor_1_slider_init();
+    </script>
+    <!-- #endregion Jssor Slider End -->
+
+    <script>
+        magnify("myimage", 2);
+        hideZ();
+        function showZ() {
+            // document.getElementById("zoom2").style.display = "block";
+            document.getElementsByClassName("img-magnifier-glass")[0].style.display = "block";
+        }
+        function hideZ() {
+            // document.getElementById("zoom2").style.display = "none";
+            document.getElementsByClassName("img-magnifier-glass")[0].style.display = "none";
+        }
+
+    </script>
+
+</div>
