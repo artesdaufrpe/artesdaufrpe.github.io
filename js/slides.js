@@ -3,6 +3,7 @@ function openModal() {
     document.getElementById("myModal").style.display = "block";
     document.getElementById("overflowY").style.overflowY = "hidden";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'none';
+    document.getElementById("titulo").style.display = "none";
     
 }
 
@@ -11,6 +12,7 @@ function closeModal() {
     document.getElementById("myModal").style.display = "none";
     document.getElementById("overflowY").style.overflowY = "scroll";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'block';
+    document.getElementById("titulo").style.display = "block";
 }
 
 var slideIndex = 1;
