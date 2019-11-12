@@ -3,13 +3,85 @@
 }
 
 body {
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    color: #fefefe;
+}
+
+.div-body {
     margin-left: 5%;
     margin-right: 5%;
 }
 
+.ftco-navbar-light {
+    background: #e2e3e5 !important;
+}
+
+.h-entry .meta {
+    color: #fefefe;
+    font-size: 14px;
+}
+
+.site-footer p {
+    color: #d6d6d6;
+}
+
+.site-footer a {
+    color: #d6d6d6;
+}
+
+.btn {
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+/* .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #ea7626;
+    border-color: #ea7626;
+} */
+
+.btn-orange {
+    background-color: #ea7626;
+    border:2px solid #ea7626;  
+    color: #fefefe;  
+}
+
+.hover-black.btn:hover {
+    color: #000;
+    border:2px solid #000; 
+}
+
+.btn-white {
+    background-color: #fefefe;
+    border: 2px solid #fefefe;  
+    color: #000;  
+}
+
+.btn:hover {
+    color:#fefefe;
+    background-color: transparent;
+    border: 2px solid #fefefe;
+}
+
+/* .btn-white:hover {
+    color:white;
+}  */
+
 .site-blocks-cover, .site-blocks-cover .row {
     min-height: 600px;
     height: calc(100vh - 1000px);
+    padding-right: 3em;
+}
+
+.site-blocks-cover.backvideo {
+    padding-right: 0em;
+    padding-left: 3em;
+}
+
+.site-blocks-cover.inner-page-cover {
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
 /* .row>.column {
@@ -172,7 +244,7 @@ img.hover-shadow {
 
 .site-footer {
     padding: 4em 0;
-    background: #333333;
+    background: #18294a; /*  #333333; */
 }
 
 .texto-obras {
@@ -189,7 +261,7 @@ a h6 {
 }
 
 a:hover h6 {
-    color: #ef6c57;
+    color: #ea7626 /* #ef6c57; */
 }
 
 .navbar-toggler {
@@ -208,8 +280,30 @@ a:hover h6 {
 
 .site-navbar{
     font-size: 20px;
+    background-color: #e2e3e5;
 }
 
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
+}
+
+.site-section.backgreen {
+    background-color: #35873a;
+}
+
+.site-section.backorange {
+    background-color: #ea7626;
+}
+
+.ftco-navbar-light.scrolled {
+    background: #e2e3e5 !important;
+}
+
+.no-js .owl-carousel, .owl-carousel.owl-loaded {
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.slide-one-item.home-slider .owl-nav {
+    width: 90%;
 }
