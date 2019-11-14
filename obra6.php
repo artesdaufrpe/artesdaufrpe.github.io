@@ -78,7 +78,7 @@
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
-                <h3>Sobre o Autor</h3>
+                <h3>Sobre o Homenageado</h3>
                 <p>
                 Engenheiro Agrônomo formado na turma de 1928, pela Escola Superior de Agricultura de Pernambuco - ESAP. 
                 Professor Catedrático, destaca-se na História Institucional como um dos baluartes na luta pela transição 

@@ -92,7 +92,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre o Autor</h3>
-                <p>...</p>
+                <?php include "html/autores/corbiniano.html" ?>
                 <br>
               </div>
             </div>
