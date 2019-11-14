@@ -106,7 +106,7 @@
             <a href="obra8.php" class="unit-1 text-center">
               <img id="imgs-galeria" src="images/galeria/obra8.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
-                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
                 <h3 class="unit-1-heading">Local: DEPARTAMENTO DE TECNOLOGIA RURAL (ÁREA EXTERNA)</h3>
               </div>
             </a>

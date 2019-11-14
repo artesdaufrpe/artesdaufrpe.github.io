@@ -106,8 +106,10 @@
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
                 <h3>Sobre o Autor</h3>
-                <p>...</p>
-                <br>
+
+                <?php include "html/autores/brigada-portinari.html" ?>
+                
+                <br/>
               </div>
             </div>
           </div>
@@ -115,7 +117,7 @@
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
               <div>
-                <h3>Sobre a Obra</h3>
+                <h3>Sobre a Obra (Em desenvolvimento)</h3>
                 <p>
                 Sobre a Brigada Portinari em conversa com Conceição e o Sr Luciano: a pintura foi realizada a pedido da 
                 diretora Maria Lúcia que com o projeto atividade cultural e com intuito de fazer uma obra diferente, convidou 
