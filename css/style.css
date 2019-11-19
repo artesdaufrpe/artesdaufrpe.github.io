@@ -102,17 +102,12 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
 
 .site-section {
-  padding: 2.5em 2em; }
+  padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 2em 6em;
-      background-color: #fefefe;
-     } } /* 5em */
-      
+      padding: 2em 0 4em 0; } } /* 5em */
   .site-section.site-section-sm {
-    padding: 2em 0;
-    background-color: #fefefe;
-  } /* 4em */
+    padding: 2em 0; } /* 4em */
 
 .site-section-heading {
   position: relative;

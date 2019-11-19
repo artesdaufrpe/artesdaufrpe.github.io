@@ -32,7 +32,7 @@
 
             <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
                 <h4 class="font-size-regular" title="Ver galeria"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Galeria</a></h4>
+                        onclick="openModal();currentSlide(1)"><br>Ver galeria</a></h4>
 
                 <p>Foto cedida pelo prof. Tadeu</p>
             </div>

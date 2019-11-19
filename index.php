@@ -4,10 +4,9 @@
   <?php include "html/head.html" ?>
 
   <body>
-
   <!-- Header geral do site -->
   <?php include "html/header.html" ?>
-  
+
   <div class="site-wrap">
     
     <div class="slide-one-item home-slider owl-carousel"> <!-- Início Carousel-->
@@ -20,7 +19,7 @@
 
               <h2 class="text-white font-weight-light">Sem Título, 1999</h2>
               <p class="mb-5"><b>Autor(a):</b> Christina Machado.</p>
-              <p><a href="obra1.php" class="btn btn-primary py-3 px-5 text-white">Visitar obra ></a></p>
+              <p><a href="obra1.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
 
             </div>
           </div>
@@ -34,7 +33,7 @@
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
               <h2 class="text-white font-weight-light">90 anos dos cursos de ciências agrárias da UFRPE</h2>
               <p class="mb-5"><b>Autor(a):</b> Corbiniano Lins</p>
-              <p><a href="obra2.php" class="btn btn-primary py-3 px-5 text-white">Visitar obra ></a></p>
+              <p><a href="obra2.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
           </div>
         </div>
@@ -47,7 +46,7 @@
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
               <h2 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h2>
               <p class="mb-5"><b>Autor(a):</b> Laércio Dias Braga</p>
-              <p><a href="obra3.php" class="btn btn-primary py-3 px-5 text-white">Visitar obra ></a></p>
+              <p><a href="obra3.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
           </div>
         </div>
@@ -55,7 +54,7 @@
 
     </div> <!-- Fim Carousel-->
 
-    <div class="site-section">
+    <div class="site-section backgreen">
       
       <div class="container overlap-section">
         <div class="row">
@@ -89,7 +88,7 @@
     </div>
 
 
-    <div class="site-section">
+    <div class="site-section backgreen">
       <div class="container">
         <div class="row align-items-stretch">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
@@ -98,7 +97,7 @@
               <div>
                 <h3>Texto 1</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
+                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>
@@ -108,7 +107,7 @@
               <div>
                 <h3>Texto 2</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
+                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>
@@ -118,7 +117,7 @@
               <div>
                 <h3>Texto 3</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Leia mais</a></p>
+                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>
@@ -127,7 +126,7 @@
       </div>
     </div>
       
-    <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url(images/hero_bg_2.jpg); background-attachment: fixed;">
+    <div class="site-blocks-cover overlay inner-page-cover backvideo" style="background-image: url(images/hero_bg_2.jpg); background-attachment: fixed;">
       <div class="container">
         <div class="row align-items-center justify-content-center text-center">
 
@@ -140,12 +139,12 @@
       </div>
     </div>  
 
-    <div class="site-section">
+    <div class="site-section backorange">
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center">
-            <h2 class="font-weight-light text-black">Veja mais</h2>
-            <p class="color-black-opacity-5">Acompanhe nosso projetos</p>
+            <h2 class="font-weight-light text-white">Veja mais</h2>
+            <p class="color-white-opacity-7">Acompanhe nossos projetos</p>
           </div>
         </div>
         <div class="row mb-3 align-items-stretch">
@@ -168,7 +167,7 @@
         </div>
         <div class="row">
           <div class="col-12 text-center">
-            <a href="#" class="btn btn-outline-primary border-2 py-3 px-5">Veja mais</a>
+            <a href="#" class="btn btn-white py-3 px-5">Veja mais</a>
           </div>
         </div>
       </div>
@@ -181,7 +180,7 @@
             <h2 class="mb-5 text-black">Tour virtual de visitação às obras de artes visuais - murais, 
               painéis e esculturas - do campus de Dois Irmãos da Universidade Federal Rural de Pernambuco
                - UFRPE.</h2>
-            <p class="mb-0"><a href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM" class="btn btn-primary py-3 px-5 text-white">Nosso Google Tour</a></p>
+            <p class="mb-0"><a href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM" class="btn btn-orange hover-black py-3 px-5">Nosso Google Tour</a></p>
           </div>
         </div>
       </div>
@@ -189,9 +188,9 @@
   
     <?php include "html/footer.html" ?>
 
-  </div>
+    </div>
 
   <?php include "html/scripts.html" ?>
-   
+
   </body>
 </html>
