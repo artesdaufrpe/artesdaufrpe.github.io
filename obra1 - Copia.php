@@ -16,7 +16,8 @@
                 <div>
 
                     <div id="titulo">
-                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>Sem Título</a></h2>
+                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>Sem
+                                Título</a></h2>
                         <br>
                     </div>
                 </div>
@@ -27,12 +28,42 @@
 
     <div class="site-wrap">
 
+        <div class="container">
+
+            <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
+                <h4 class="font-size-regular" title="Ver galeria"><a href="#"
+                        onclick="openModal();currentSlide(1)"><br>Ver galeria</a></h4>
+
+                <p>Foto cedida pelo prof. Tadeu</p>
+            </div>
+
+        </div>
+
+        <div class="slide-one-item-manual home-slider owl-carousel overlap">
+            <!-- Carousel begin-->
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(1)"
+                style="cursor:pointer; background-image: url(images/obra1/01p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
+
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(2)"
+                style="cursor:pointer; background-image: url(images/obra1/02p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
+
+            <div class="site-blocks-cover" title="Ver galeria" href="#" onclick="openModal();currentSlide(3)"
+                style="cursor:pointer; background-image: url(images/obra1/03p.png);" data-aos="fade"
+                data-stellar-background-ratio="0.4">
+            </div>
+
+        </div> <!-- Carousel End -->
+
         <div class="site-section">
             <div class="container">
                 <div class="row align-items-stretch">
                     <div>
                         <div class="col-sm-12 d-flex">
-                            <div class="unit-4-icon mr-4"><span class="text-primary"><img
+                            <div class="unit-12-icon mr-12"><span class="text-primary"><img
                                         src="images/arte_peq.png"></span></div>
                             <div>
                                 <h3>Ficha Técnica</h3>
@@ -82,9 +113,8 @@
                                     <br>
                                     <b>Fonte:</b> Biografia disponibilizada por Christina Machado
 
-                                    <p><b>Disponível em: </b><a
-                                            href="http://www.galeriaestacao.com.br/acervo_artista/55" target="_blank"
-                                            class="btn btn-orange hover-black py-2 px-3">
+                                    <p><b>Disponível em:</b><a href="http://www.galeriaestacao.com.br/acervo_artista/55"
+                                            target="_blank" class="btn">
                                             galeriaestacao<br />
                                         </a></p>
 
@@ -93,7 +123,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="unit-4 d-flex">
                             <div class="unit-4-icon mr-4"><span class="text-primary"><img
@@ -108,34 +137,11 @@
                         </div>
                     </div>
 
-                    <div class="container">
-
-                        <h3><br>Texto a ser definido</a></h3>
-
-                        <p>Texto a ser definido</p>
-
-                        <?php include "teste4.html" ?>
-
-                    </div>
-
-
-
                 </div>
             </div>
-            </br></br></br>
-            <div class="site-section backorange">
-                <div class="container">
-
-                    <?php include "html/outras_obras.html" ?>
-
-                </div>
-            </div>
-
         </div>
 
-
-
-
+        <?php include "html/outras_obras.html" ?>
 
         <?php include "html/footer.html" ?>
 

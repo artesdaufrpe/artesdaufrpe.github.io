@@ -173,8 +173,8 @@ img.hover-shadow {
 .site-footer {
     padding: 4em 0;
     background: #18294a; /*  #333333; */
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .texto-obras {
@@ -218,8 +218,8 @@ a:hover h6 {
 }
 
 .site-section {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .site-section.backgreen {
@@ -241,19 +241,19 @@ a:hover h6 {
 
 .btn-orange {
     background-color: #ea7626;
-    border:2px solid #ea7626;  
-    color: #fefefe;  
+    border:2px solid #ea7626;
+    color: #fefefe;
 }
 
 .hover-black.btn:hover {
     color: #000;
-    border:2px solid #000; 
+    border:2px solid #000;
 }
 
 .btn-white {
     background-color: #fefefe;
-    border: 2px solid #fefefe;  
-    color: #000;  
+    border: 2px solid #fefefe;
+    color: #000;
 }
 
 .btn:hover {
@@ -271,4 +271,43 @@ a:hover h6 {
 .site-navbar.py-1 {
     font-size: 20px;
     background-color: #e2e3e5;
+}
+
+@media (max-width: 991.98px){
+.navbar-expand-lg>.container{
+    padding-right: 17px;
+    padding-left: 17px;
+}}
+
+.logomenu {
+    width: 20%;
+    border: 0;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+@media (max-width: 991.98px){
+.logomenu {
+    width: 40%;
+    border: 0;
+    padding-top: 5px; 
+    padding-bottom: 15px;
+    
+}}
+
+.lead {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 991.98px){
+.lead {
+    font-size: 0.75rem;
+}}
+
+.block-13 .owl-nav .owl-next {
+    color: #fff;
+}
+
+.block-13 .owl-nav .owl-prev {
+    color: #fff;
 }
