@@ -33,11 +33,11 @@
                 <!--main-section alabaster-start-->
                 <div class="container">
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
+                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
                             <img src="images/arte_peq.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h2>Ficha Técnica</h2>
+                            <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Título <br>
                                 <b>Autor(a):</b> Christina Machado <br>
@@ -47,57 +47,28 @@
                                 <b>Data:</b> 1999 <br>
                                 <b>Localização:</b> Subsolo do prédio CEGOE <br>
                             </p>
+                            </br>
                         </div>
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
+                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
                             <img src="images/arte_peq.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h2>Sobre o Autor</h2>
+                            <h3>Sobre o Autor</h3>
                             <p>
-                                <b>Biografia</b> <br>
-
-                                1957, Belém - PA <br>
-                                <br>
-                                Radicada em Recife (desde 1959), é artista plástica e ceramista desde 1978, quando
-                                iniciou sua carreira em ateliês de
-                                desenho e pintura. Graduada em educação artística pela Universidade Federal de
-                                Pernambuco, conheceu a cerâmica no início
-                                dos anos 80 e passou a dedicar-se ao desenvolvimento de técnicas de modelagem,
-                                desenho e pintura próprios à esta matéria.
-                                Voltado ao desenvolvimento de uma concepção da cerâmica enquanto arte, o trabalho de
-                                Christina Machado foi inicialmente
-                                marcado pela criação de objetos, esculturas e painéis para interiores e exteriores,
-                                onde a cerâmica integrava-se a projetos
-                                arquitetônicos. <br>
-                                Nos últimos cinco anos, seu trabalho tem se voltado a uma concepção da argila não
-                                apenas como suporte sobre o qual pintar
-                                ou modelar, mas como a obra em si, enfatizando sua natureza intrínseca. Assim, a
-                                artista vem desenvolvendo técnicas para
-                                o emprego da argila (com origens, texturas e tonalidades diversas) como cobertura ou
-                                a própria tinta a ser utilizada,
-                                fazendo com que a argila participe como elemento essencial de todos os estágios de
-                                composição da obra. <br>
-                                <br>
-                                <b>Fonte:</b> Biografia disponibilizada por Christina Machado
-
-                                <p><b>Disponível em: </b><a href="http://www.galeriaestacao.com.br/acervo_artista/55"
-                                        target="_blank" class="btn btn-orange hover-black py-2 px-3">
-                                        galeriaestacao<br />
-                                    </a></p>
-
+                                <?php include "html/autores/christina-machado.html" ?>
                             </p>
                         </div>
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
+                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
                             <img src="images/arte_peq.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h2>Sobre a Obra</h2>
+                            <h3>Sobre a Obra</h3>
                             <p>
                                 A obra se encontra no salão térreo ao lado do pátio do auditório/CEGOE.
                             </p>
@@ -112,10 +83,23 @@
 
                     <p>Texto a ser definido</p>
 
-                    <?php include "teste4.html" ?>
+                    <?php
+                        $id_galeria = "jssor_body";
+                        include "galeria_begin.php";
+                        // Início imagens Galeria
+                        $num_obra = 1;
+                        include "galeria_obra.php";
+                        // Fim Galeria
+                        include "galeria_end.php";
+                    ?>
 
                 </div>
+
             </section>
+            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
+                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
+                        onclick="openModal();currentSlide(1)"><br>Ver galeria</a><img style="width: 5%; cursor:pointer;" src="images/full-screen.png"></h5>
+            </div>
 
             </br></br></br>
             <div class="site-section backorange">
@@ -135,8 +119,17 @@
     <!-- Galery Begin -->
     <div id="personScroll" class="scrollbar" style="display: none;">
         <div id="myModal" class="modal force-overflow">
+            
+            <?php
+                $id_galeria = "jssor_modal";
+                include "galeria_begin.php";
+                // Início imagens Galeria
+                $num_obra = 1;
+                include "galeria_obra.php";
+                // Fim Galeria
+                include "galeria_end.php";
+            ?>
             <span class="close cursor" onclick="closeModal()">&times;</span>
-            <?php include "teste4.html" ?>
         </div>
     </div>
     <!-- Galery End -->

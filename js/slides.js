@@ -4,7 +4,8 @@ function openModal() {
     document.getElementById("overflowY").style.overflowY = "hidden";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'none';
     document.getElementById("titulo").style.display = "none";
-    
+    document.getElementById("site-navbar-py").style.display = "none";
+            
 }
 
 function closeModal() {
@@ -13,6 +14,7 @@ function closeModal() {
     document.getElementById("overflowY").style.overflowY = "scroll";
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'block';
     document.getElementById("titulo").style.display = "block";
+    document.getElementById("site-navbar-py").style.display = "block";
 }
 
 var slideIndex = 1;
