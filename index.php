@@ -11,7 +11,7 @@
     
     <div class="slide-one-item home-slider owl-carousel"> <!-- Início Carousel-->
       
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra1/DSC3809_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/obra1/imageP/1p.png);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
 
@@ -26,7 +26,7 @@
         </div>
       </div>  
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra2/4_DSC3678.NEF_P.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/obra2/imageP/1p.png);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
 
@@ -39,7 +39,7 @@
         </div>
       </div>  
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/obra3_p.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/obra3/imageP/3p.png);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
 
@@ -93,7 +93,7 @@
         <div class="row align-items-stretch">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
+              <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div>
                 <h3>Texto 1</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -103,7 +103,7 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
+              <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div>
                 <h3>Texto 2</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -113,7 +113,7 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary"><img src="images/arte_peq.png"></span></div>
+              <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div>
                 <h3>Texto 3</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>

@@ -33,8 +33,8 @@
                 <!--main-section alabaster-start-->
                 <div class="container">
                     <div class="row">
-                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
@@ -52,8 +52,8 @@
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre o Autor</h3>
@@ -64,8 +64,8 @@
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-2 col-sm-2 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
@@ -98,7 +98,7 @@
             </section>
             <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
                 <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria</a><img style="width: 5%; cursor:pointer;" src="images/full-screen.png"></h5>
+                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
             </div>
 
             </br></br></br>
