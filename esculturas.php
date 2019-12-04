@@ -13,8 +13,7 @@
     <header class="site-navbar" role="banner">
 
       <div class="container">
-        <div>
-          
+        <div>          
           <div id="titulo">
             <h2><a href="index.html" class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>ESCULTURAS</a></h2>
             <br>
@@ -26,7 +25,7 @@
   </div>
 
   <div class="site-wrap">
-
+<!-- </br></br> -->
     <?php include "html/esculturas.html" ?>
 
     <?php include "html/esc_alto_relevo.html" ?>

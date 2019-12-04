@@ -185,7 +185,7 @@ img.hover-shadow {
 
 .unit-4 h3 {
     font-size: 20px;
-    padding: 20px 0 0 0;
+    padding: 10px 0 0 0;
 }
 
 a h6 {
@@ -210,6 +210,12 @@ a:hover h6 {
     height: 500px;
 }
 
+@media (max-width: 460px){
+    .owl-carousel.owl-drag .owl-item {
+        height: 336px;
+    }
+}
+
 .site-navbar{
     font-size: 20px;
     /* background-color: #e2e3e5; */
@@ -222,6 +228,10 @@ a:hover h6 {
 .site-section {
     margin-left: 0;
     margin-right: 0;
+}
+
+.site-section.backgrey {
+    background-color: #f5f5f5;
 }
 
 .site-section.backgreen {
@@ -303,7 +313,12 @@ a:hover h6 {
 
 @media (max-width: 991.98px){
 .lead {
-    font-size: 0.75rem;
+    font-size: 1rem;
+}}
+
+@media (max-width: 768px){
+    .lead {
+        font-size: 0.75rem;
 }}
 
 .block-13 .owl-nav .owl-next {
@@ -312,6 +327,14 @@ a:hover h6 {
 
 .block-13 .owl-nav .owl-prev {
     color: #fff;
+}
+
+.block-grey .owl-nav .owl-prev {
+    color: #000;
+}
+
+.block-grey .owl-nav .owl-next {
+    color: #000;
 }
 
 .alabaster {
@@ -331,6 +354,10 @@ a:hover h6 {
         top: -23px;
     }}
 
+.text-white-grey {
+    color: #e2e2e2 !important;
+}
+
 /* #jssor_body {
     top: 0px;
 }
@@ -339,3 +366,24 @@ a:hover h6 {
     #jssor_body {
         top: -23px;
     }} */
+
+body a {
+    color:#ea7626;
+}
+
+body a:hover {
+    color:#cca185;
+}
+
+/* .text-orange {
+    color: #ea7626 !important;
+}
+
+.text-orange {
+    color: #ea7626 !important;
+} */
+
+.unit-1-text strong {
+    color: #ea7626 !important;
+    text-shadow: #000;
+}

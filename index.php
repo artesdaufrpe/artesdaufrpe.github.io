@@ -17,7 +17,7 @@
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
 
-              <h2 class="text-white font-weight-light">Sem Título, 1999</h2>
+              <h3 class="text-white font-weight-light">Sem Título, 1999</h3>
               <p class="mb-5"><b>Autor(a):</b> Christina Machado.</p>
               <p><a href="obra1.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
 
@@ -31,7 +31,7 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <h2 class="text-white font-weight-light">90 anos dos cursos de ciências agrárias da UFRPE</h2>
+              <h3 class="text-white font-weight-light">90 anos dos cursos de ciências agrárias da UFRPE</h3>
               <p class="mb-5"><b>Autor(a):</b> Corbiniano Lins</p>
               <p><a href="obra2.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
@@ -44,7 +44,7 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <h2 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h2>
+              <h3 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h3>
               <p class="mb-5"><b>Autor(a):</b> Laércio Dias Braga</p>
               <p><a href="obra3.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
@@ -94,7 +94,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
-              <div>
+              <div class="text-white-grey">
                 <h3>Texto 1</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
@@ -104,7 +104,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
-              <div>
+              <div class="text-white-grey">
                 <h3>Texto 2</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
@@ -114,7 +114,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
-              <div>
+              <div class="text-white-grey">
                 <h3>Texto 3</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
@@ -144,24 +144,24 @@
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center">
             <h2 class="font-weight-light text-white">Veja mais</h2>
-            <p class="color-white-opacity-7">Acompanhe nossos projetos</p>
+            <p class="color-white-opacity-7 text-white">Acompanhe nossos projetos</p>
           </div>
         </div>
         <div class="row mb-3 align-items-stretch">
           <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
             <div class="h-entry">
               <img src="images/hero_bg_1.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular"><a href="#">Obras</a></h2>
-              <div class="meta mb-4">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <h2 class="font-size-regular text-white"><a href="#">Obras</a></h2>
+              <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
             </div> 
           </div>
           <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
             <div class="h-entry">
               <img src="images/hero_bg_2.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular"><a href="#">Artes</a></h2>
-              <div class="meta mb-4">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <h2 class="font-size-regular text-white"><a href="#">Artes</a></h2>
+              <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
             </div>
           </div>
         </div>

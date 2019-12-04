@@ -33,6 +33,13 @@ h1, h2, h3, h4, h5,
   padding-bottom: 15px
 }
 
+@media (max-width: 991.98px){
+  .text-black {
+    color: #000 !important; 
+    padding-top: 0px;
+    padding-bottom: 0px
+  }}
+
 .bg-black {
   background: #000 !important; }
 
@@ -1210,11 +1217,32 @@ h1, h2, h3, h4, h5,
 .h-entry h2 {
   font-size: 20px; }
 
+/* novov */
 .overlap-left {
-  margin-left: -100px; }
-  @media (max-width: 991.98px) {
-    .overlap-left {
-      margin-left: 0px; } }
+  margin-left: -100px; 
+}
+
+@media (max-width: 991.98px) {
+  .overlap-left {
+      margin-left: 0px;
+      margin-top: -400px;
+      padding: 8px !important;
+     } 
+}
+
+@media (max-width: 768px) {
+  .overlap-left {
+      margin-left: 0px;
+      margin-top: -110px;
+     } 
+}
+
+/* @media (max-width: 460px) {
+  .overlap-left {
+      margin-left: 0px;
+      margin-top: -80px;
+     } 
+} */
 
 /* NAV */      
 .ftco-navbar-light {
