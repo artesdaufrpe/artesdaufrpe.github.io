@@ -18,7 +18,7 @@
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
 
               <h3 class="text-white font-weight-light">Sem Título, 1999</h3>
-              <p class="mb-5"><b>Autor(a):</b> Christina Machado.</p>
+              <p class="mb-5 text-orange"><b>Autora:</b> Christina Machado.</p>
               <p><a href="obra1.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
 
             </div>
@@ -32,7 +32,7 @@
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
               <h3 class="text-white font-weight-light">90 anos dos cursos de ciências agrárias da UFRPE</h3>
-              <p class="mb-5"><b>Autor(a):</b> Corbiniano Lins</p>
+              <p class="mb-5 text-orange"><b>Autor:</b> Corbiniano Lins</p>
               <p><a href="obra2.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
           </div>
@@ -45,7 +45,7 @@
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
               <h3 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h3>
-              <p class="mb-5"><b>Autor(a):</b> Laércio Dias Braga</p>
+              <p class="mb-5 text-orange"><b>Autor:</b> Laércio Dias Braga</p>
               <p><a href="obra3.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>
           </div>
@@ -139,39 +139,7 @@
       </div>
     </div>  
 
-    <div class="site-section backorange">
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center">
-            <h2 class="font-weight-light text-white">Veja mais</h2>
-            <p class="color-white-opacity-7 text-white">Acompanhe nossos projetos</p>
-          </div>
-        </div>
-        <div class="row mb-3 align-items-stretch">
-          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/hero_bg_1.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular text-white"><a href="#">Obras</a></h2>
-              <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-            </div> 
-          </div>
-          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/hero_bg_2.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular text-white"><a href="#">Artes</a></h2>
-              <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan 18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12 text-center">
-            <a href="#" class="btn btn-white py-3 px-5">Veja mais</a>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php include "html/vejamais.html" ?>
     
     <div class="site-section border-top">
       <div class="container">

@@ -41,7 +41,7 @@
                         <a href="obra1.php" class="unit-1 text-center">
                             <img id="imgs-galeria" src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <strong class="text-orange mb-2 d-block">Autor: CHRISTINA MACHADO</strong>
+                                <strong class="text-orange mb-2 d-block">Autora: CHRISTINA MACHADO</strong>
                                 <p class="unit-1-heading">Local: PRÉDIO DO CEGOE (PILOTIS)</p>
                             </div>
                         </a>
@@ -115,7 +115,7 @@
                         <a href="obra9.php" class="unit-1 text-center">
                             <img id="imgs-galeria" src="images/galeria/obra9.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <strong class="text-primary mb-2 d-block">Autor: INALDA XAVIER</strong>
+                                <strong class="text-primary mb-2 d-block">Autora: INALDA XAVIER</strong>
                                 <h3 class="unit-1-heading">Local: PRÉDIO OTÁVIO GOMES (AGRONOMIA)</h3>
                             </div>
                         </a>
@@ -354,45 +354,7 @@
             </div>
         </div>
 
-        <div class="site-section backorange">
-            <div class="container">
-                <div class="row justify-content-center mb-5">
-                    <div class="col-md-7 text-center">
-                        <h2 class="font-weight-light text-white">Veja mais</h2>
-                        <p class="color-white-opacity-7 text-white">Acompanhe nossos projetos</p>
-                    </div>
-                </div>
-                <div class="row mb-3 align-items-stretch">
-                    <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
-                        <div class="h-entry">
-                            <img src="images/hero_bg_1.jpg" alt="Image" class="img-fluid">
-                            <h2 class="font-size-regular text-white"><a href="#">Obras</a></h2>
-                            <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan
-                                18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
-                                eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum
-                                voluptatibus a eius.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
-                        <div class="h-entry">
-                            <img src="images/hero_bg_2.jpg" alt="Image" class="img-fluid">
-                            <h2 class="font-size-regular text-white"><a href="#">Artes</a></h2>
-                            <div class="meta mb-4 text-white">by Theresa Winston <span class="mx-2">&bullet;</span> Jan
-                                18, 2019 at 2:00 pm <span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
-                                eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum
-                                voluptatibus a eius.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <a href="#" class="btn btn-white py-3 px-5">Veja mais</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include "html/vejamais.html" ?>
 
         <div class="site-section border-top">
             <div class="container">

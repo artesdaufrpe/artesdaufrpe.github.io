@@ -16,8 +16,7 @@
                 <div>
 
                     <div id="titulo">
-                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>90 anos dos cursos de
-                                ciências agrárias da
+                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>90 anos dos cursos de ciências agrárias da
                                 UFRPE</a></h2>
                         <br>
                     </div>
@@ -35,8 +34,8 @@
                 <!--main-section alabaster-start-->
                 <div class="container">
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
@@ -54,8 +53,8 @@
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre o Autor</h3>
@@ -66,12 +65,14 @@
                     </div>
 
                     <div class="row">
-                        <figure class="col-lg-1 col-sm-1 wow fadeInLeft">
-                            <img src="images/arte_peq.png" alt="">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
-                            <p>Foi colocada na comemoração dos (90 anos da UFRPE).</p>
+                            <p>
+                            Foi colocada na comemoração dos (90 anos da UFRPE).
+                            </p>
                         </div>
                     </div>
 
@@ -84,16 +85,22 @@
                     <p>Texto a ser definido</p>
 
                     <?php
-                        include "galeria_begin.html";
+                        $id_galeria = "jssor_body";
+                        include "galeria_begin.php";
                         // Início imagens Galeria
                         $num_obra = 2;
                         include "galeria_obra.php";
                         // Fim Galeria
-                        include "galeria_end.html";
+                        include "galeria_end.php";
                     ?>
 
                 </div>
+
             </section>
+            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
+                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
+                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
+            </div>
 
             </br></br></br>
             <div class="site-section backorange">
@@ -113,8 +120,17 @@
     <!-- Galery Begin -->
     <div id="personScroll" class="scrollbar" style="display: none;">
         <div id="myModal" class="modal force-overflow">
+            
+            <?php
+                $id_galeria = "jssor_modal";
+                include "galeria_begin.php";
+                // Início imagens Galeria
+                $num_obra = 2;
+                include "galeria_obra.php";
+                // Fim Galeria
+                include "galeria_end.php";
+            ?>
             <span class="close cursor" onclick="closeModal()">&times;</span>
-            <?php include "teste4.html" ?>
         </div>
     </div>
     <!-- Galery End -->
