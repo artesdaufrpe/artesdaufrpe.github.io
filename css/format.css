@@ -378,7 +378,7 @@ body a {
 
 body a:hover {
     color:#ea7626;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 .text-orange {
@@ -390,4 +390,9 @@ body a:hover {
 .unit-1-text strong {
     color: #ea7626 !important;
     text-shadow: 2px 2px 6px #000;
+}
+
+p.padding-acervo {
+    padding-left: 10px;
+    padding-right: 10px;
 }

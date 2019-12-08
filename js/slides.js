@@ -5,7 +5,7 @@ function openModal() {
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'none';
     document.getElementById("titulo").style.display = "none";
     document.getElementById("site-navbar-py").style.display = "none";
-            
+    $(".ver-galeria-body").hide();
 }
 
 function closeModal() {
@@ -15,6 +15,7 @@ function closeModal() {
     document.getElementsByClassName('ftco-navbar-light')[0].style.display = 'block';
     document.getElementById("titulo").style.display = "block";
     document.getElementById("site-navbar-py").style.display = "block";
+    $(".ver-galeria-body").show();
 }
 
 var slideIndex = 1;

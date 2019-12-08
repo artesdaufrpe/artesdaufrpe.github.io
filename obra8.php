@@ -16,7 +16,8 @@
                 <div>
 
                     <div id="titulo">
-                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>A Semeadora</a></h2>
+                        <h2><a class="text-white" style="text-shadow: 2px 2px 4px #000000;"><br>Dom Quixote de La
+                                Rural</a></h2>
                         <br>
                     </div>
                 </div>
@@ -39,12 +40,13 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
                             <p>
-                                <b>Título:</b> A Semeadora <br>
-                                <b>Autor(a):</b> Corbiniano Lins <br>
+                                <b>Título:</b> Dom Quixote de La Rural <br>
+                                <b>Autor(a):</b> José Rodrigues Correia Filho e Lindamy Viegas Coutinho <br>
                                 <b>Técnica:</b> Escultura <br>
-                                <b>Materiais:</b> Concreto <br>
-                                <b>Dimensão:</b> 0,58 (L) x 2,16 (A) x 0,56 (P) <br>
-                                <b>Data:</b> Desconhecido <br>
+                                <b>Materiais:</b> Sucata <br>
+                                <b>Dimensão:</b> 1,86 (L) x 2,60 (A) x 0,85 (P) <br>
+                                <b>Data:</b> 2003 <br>
+                                <b>Localização:</b> Área externa do Departamento de Tecnologia Rural <br>
                             </p>
                             </br>
                         </div>
@@ -55,9 +57,9 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h3>Sobre o Autor</h3>
+                            <h3>Sobre os Autores</h3>
                             <p>
-                                <?php include "html/autores/corbiniano.html" ?>
+                                <?php include "html/autores/jose-lindamy.html" ?>
                             </p>
                         </div>
                     </div>
@@ -69,11 +71,11 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Conceição (da Biblioteca Central): sobre a escultura da Semeadora ( deusa da
-                                agricultura) e sobre o seu contexto histórico ( data, quem solicitou sua instalação,
-                                etc) poderá ser obtida com o pessoal da Pró reitoria de planejamento, mais
-                                especificamente com o Pro reitor. Acredita que sua instalação tenha ocorrido nos anos
-                                80.
+                                De acordo com relatos de professores e pessoas envolvidas na concepção da obra, ela foi
+                                resultado de um projeto disciplinar do Departamento de Tecnologia Rural, tendo como foco
+                                o desenvolvimento de uma arte coletiva, com estudantes, terceirizados e professores, a
+                                partir de descartes na natureza de peças em metal. A história dessa obra ainda está
+                                sendo investigada.
                             </p>
                         </div>
                     </div>
@@ -81,10 +83,6 @@
                 </div>
 
                 <div class="container titleModal">
-
-                    <h3><br>Texto a ser definido</a></h3>
-
-                    <p>Texto a ser definido</p>
 
                     <?php
                         $id_galeria = "jssor_body";
@@ -99,11 +97,6 @@
                 </div>
 
             </section>
-            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
-                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img
-                        style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
-            </div>
 
             </br></br></br>
             <div class="site-section backorange">

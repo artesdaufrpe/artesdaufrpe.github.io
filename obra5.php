@@ -53,18 +53,6 @@
                         </div>
                     </div>
 
-                    <!-- <div class="row">
-                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
-                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
-                        </figure>
-                        <div class="col-lg-11 col-sm-10 featured-work">
-                            <h3>Sobre o Autor</h3>
-                            <p>
-                                <?php include "html/autores/corbiniano.html" ?>
-                            </p>
-                        </div>
-                    </div> -->
-
                     <div class="row">
                         <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
@@ -72,40 +60,49 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Sobre a Brigada Portinari em conversa com Conceição e o Sr Luciano: a pintura foi
-                                realizada a pedido da
-                                diretora Maria Lúcia que com o projeto atividade cultural e com intuito de fazer uma
-                                obra diferente, convidou
-                                pintores da brigada para executar tal tarefa. Aqui chegaram , escolheram o lugar ,
-                                rebocaram a parede e como a
-                                ideia era de fazer uma pintura relacionada a ciência agrária, resolveram pintar um
-                                canavial. Pediram a alguns
-                                funcionários que servissem de modelo para a pintura, dentre eles estavam: Luciano, Sueli
-                                Manzo, Luiz, Armindo
-                                Martins, Marlene Muniz e João Marinho e alguns alunos. Ainda trabalham na Rural Luciano
-                                e Sueli Manzo, ambos na
-                                biblioteca e Armindo que trabalha em Carpina. Faleceram João Marinho, Marlene Muniz e
-                                Luiz. Sr Luciano que serviu
-                                de modelo para os painéis da Brigada Portinari nos relatou que eles utilizaram Vassouras
-                                e baldes para simular
-                                enxadas e outros objetos, Que os painéis foram pintados por três/ quatro artistas num
-                                período de uns três dias.
-                                Utilizavam tintas de parede, trinchas e pinceladas rápidas enquanto conversavam com os
-                                modelos e pintavam.
-                                Não lembra dos nomes de nenhum deles, mas acredita que quem poderia ajudar nessa
-                                informação seria Elizabeth
-                                Remígio, que realizou um estudo da Brigada Portinari ( informação de Conceição).
-                            </p>
+                                A Brigada Portinari é um movimento de arte muralista que surgiu em Pernambuco no início
+                                dos anos de 1980, com forte engajamento político no processo de redemocratização do
+                                país, atuando em favor de candidaturas progressistas que se opunham aos representantes
+                                do regime de ditadura civil-militar iniciado em 1964. Inspirados pela arte muralista de
+                                outros países da América Latina, como Chile e México, os artistas da Brigada Portinari
+                                atuaram em campanhas políticas, a partir de 1982, pintando os muros do Recife, de Olinda
+                                e de outras cidades, como Palmares, Caruaru e Itamaracá.<br>
+                                De acordo com Elizabete Remígio e Thiago Nunes Soares, em suas respectivas pesquisas no
+                                Mestrado em História da UFRPE, publicadas em livros (respectivamente, As Brigadas
+                                Muralistas e as Campanhas de Arraes, CEPE Ed., 2016; e Gritam os Muros – pichações e
+                                ditadura civil-militar no Brasil, Appris, 2018), o primeiro trabalho da Brigada
+                                Portinari foi um painel pintado na Rua da União, Bairro da Boa Vista, no Recife. Luciano
+                                Pinheiro, um dos integrantes do grupo, relembra: “Em agosto de 1982 surge o primeiro
+                                painel da Brigada Portinari em um muro da Rua da União [...] Sentia-se no ar um pouco de
+                                emoção e nervosismo, talvez medo. No branco arriscam-se os primeiros desenhos, manchas,
+                                letras, números. Pessoas se aproximam sem entender o que acontecia, afinal, a pichação
+                                de muros estava proibida. E aquela era tudo aberto, quase uma festa! Dois dias depois, o
+                                painel estava vandalizado. [...] É então que vem a consciência de ampliação do trabalho,
+                                ou seja, não só executar novos painéis, mas também restaurar os que fossem danificados.
+                                E isso foi feito, muro a muro.” (REMÍGIO 2016, p. 57). “[...] A Brigada avança, chegando
+                                a pintar mais de 30 painéis espalhados estrategicamente pelos bairros recifenses e 12 em
+                                outras cidades” (SOARES 2018, p. 101).<br>
+                                <br>
+                                Além de Luciano Pinheiro, a Brigada Portinari teve em seu elenco, em diferentes
+                                períodos, o arquiteto Ivaldevan Calheiros e artistas como George Barbosa, Clériston
+                                Andrade, Alves Dias, José Carlos Viana, Delano, Bárbara Kreuzig, Cavani Rosas, Maria
+                                Betânia, Lourenço Ipiranga, João Câmara, Ypiranga Filho, José Cláudio e Tereza Costa
+                                Rêgo, entre outros. A obra presente neste catálogo data de 1986 e está localizada numa
+                                sala nas dependências internas da Biblioteca Central da UFRPE. São, na verdade, duas
+                                pintadas de dimensões grandes: a primeira, com 1,90m de altura e 3,94m de largura,
+                                retrata trabalhadores agrícolas da colheita de cana-de-açúcar e crianças em um ambiente
+                                rural. Na parede do lado esquerdo desta primeira pintura, encontra-se outro mural
+                                medindo 2,60m de altura e 2,75m de largura, este retratando um cenário ambientado na
+                                academia, composto por imagens de estudantes e pesquisadores com pranchetas ou sentados
+                                em cadeiras.<br>
+
+                            </p><br>
                         </div>
                     </div>
 
                 </div>
 
                 <div class="container titleModal">
-
-                    <h3><br>Texto a ser definido</a></h3>
-
-                    <p>Texto a ser definido</p>
 
                     <?php
                         $id_galeria = "jssor_body";
@@ -120,11 +117,6 @@
                 </div>
 
             </section>
-            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
-                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img
-                        style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
-            </div>
 
             </br></br></br>
             <div class="site-section backorange">

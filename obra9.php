@@ -64,29 +64,21 @@
                         </div>
                     </div>
 
-                    <!-- <div class="row">
+                    <div class="row">
                         <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Conceição (da Biblioteca Central): sobre a escultura da Semeadora ( deusa da
-                                agricultura) e sobre o seu contexto histórico ( data, quem solicitou sua instalação,
-                                etc) poderá ser obtida com o pessoal da Pró reitoria de planejamento, mais
-                                especificamente com o Pro reitor. Acredita que sua instalação tenha ocorrido nos anos
-                                80.
+                                Texto a ser definido.
                             </p>
                         </div>
-                    </div> -->
+                    </div>
 
                 </div>
 
                 <div class="container titleModal">
-
-                    <h3><br>Texto a ser definido</a></h3>
-
-                    <p>Texto a ser definido</p>
 
                     <?php
                         $id_galeria = "jssor_body";
@@ -101,11 +93,6 @@
                 </div>
 
             </section>
-            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
-                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img
-                        style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
-            </div>
 
             </br></br></br>
             <div class="site-section backorange">

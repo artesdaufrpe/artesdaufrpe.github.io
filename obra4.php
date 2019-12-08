@@ -80,10 +80,6 @@
 
                 <div class="container titleModal">
 
-                    <h3><br>Texto a ser definido</a></h3>
-
-                    <p>Texto a ser definido</p>
-
                     <?php
                         $id_galeria = "jssor_body";
                         include "galeria_begin.php";
@@ -97,11 +93,6 @@
                 </div>
 
             </section>
-            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
-                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img
-                        style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
-            </div>
 
             </br></br></br>
             <div class="site-section backorange">

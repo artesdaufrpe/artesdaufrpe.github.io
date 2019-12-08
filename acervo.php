@@ -33,230 +33,244 @@
                 <div class="row justify-content-center mb-5">
                     <div class="col-md-7 text-center">
                         <h2 class="font-weight-light text-black">Visite todas!</h2>
-                        <!-- <p class="color-black-opacity-5">Visite todas!</p> -->
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra1.php" class="unit-1 text-center">
+                        <a href="obra1.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Sem Título</p>
                                 <strong class="text-orange mb-2 d-block">Autora: CHRISTINA MACHADO</strong>
-                                <p class="unit-1-heading">Local: PRÉDIO DO CEGOE (PILOTIS)</p>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra2.php" class="unit-1 text-center">
+                        <a href="obra2.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra2.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">90 anos dos cursos de ciências agrárias da
+                                    UFRPE</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: PRÉDIO DO CEGOE (EM FRENTE AO AUDITÓRIO)</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra3.php" class="unit-1 text-center">
+                        <a href="obra3.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra3.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Busto do Prof. Francisco de Oliveira Magalhães
+                                </p>
                                 <strong class="text-primary mb-2 d-block">Autor: LAÉRCIO DIAS BRAGA</strong>
-                                <h3 class="unit-1-heading">Local: PRAÇA DA SINTUFERPE</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra4.php" class="unit-1 text-center">
+                        <a href="obra4.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra4.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Sesquicentenário dos
+                                    cursos de Ciências Agrárias da UFRPE</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: PRAÇA DA SINTUFERPE</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra5.php" class="unit-1 text-center">
+                        <a href="obra5.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra5.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Brigada Portinari<br>
+                                    (Paineis 01 e 02)</p>
                                 <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
-                                <h3 class="unit-1-heading">Local: BIBLIOTECA CENTRAL</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra6.php" class="unit-1 text-center">
+                        <a href="obra6.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra6.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Busto do Prof. Manuel Rodrigues Filho</p>
                                 <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
-                                <h3 class="unit-1-heading">Local: BIBLIOTECA CENTRAL</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra7.php" class="unit-1 text-center">
+                        <a href="obra7.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra7.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">A Semeadora</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBILIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: PROPLAN (ÁREA EXTERNA)</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra8.php" class="unit-1 text-center">
+                        <a href="obra8.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra8.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Dom Quixote de La Rural</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE TECNOLOGIA RURAL (ÁREA EXTERNA)</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra9.php" class="unit-1 text-center">
+                        <a href="obra9.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra9.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Desconhecido</p>
                                 <strong class="text-primary mb-2 d-block">Autora: INALDA XAVIER</strong>
-                                <h3 class="unit-1-heading">Local: PRÉDIO OTÁVIO GOMES (AGRONOMIA)</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra10.php" class="unit-1 text-center">
+                        <a href="obra10.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra10.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Desconhecido</p>
                                 <strong class="text-primary mb-2 d-block">Autor: LULA CARDOSO AYRES</strong>
-                                <h3 class="unit-1-heading">Local: SALÃO NOBRE</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra11.php" class="unit-1 text-center">
+                        <a href="obra11.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra11.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">80 Anos dos Cursos de Ciências Agrárias da
+                                    UFRPE “O Semeador”</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: HALL DO PRÉDIO CENTRAL</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra12.php" class="unit-1 text-center">
+                        <a href="obra12.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra12.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Sem Títlo</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra13.php" class="unit-1 text-center">
+                        <a href="obra13.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra13.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas de 1977</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra14.php" class="unit-1 text-center">
+                        <a href="obra14.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra14.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas de 1978</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra15.php" class="unit-1 text-center">
+                        <a href="obra15.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra15.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas do primeiro semestre de 1979</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra16.php" class="unit-1 text-center">
+                        <a href="obra16.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra16.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas do
+                                    segundo semestre de 1979</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra17.php" class="unit-1 text-center">
+                        <a href="obra17.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra17.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas de 1981</p>
                                 <strong class="text-primary mb-2 d-block">Autor: FRANCISCO NEVES</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra18.php" class="unit-1 text-center">
+                        <a href="obra18.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra18.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas do primeiro semestre 1982</p>
                                 <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra19.php" class="unit-1 text-center">
+                        <a href="obra19.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra19.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do curso de Licenciatura
+                                    em Ciências Domésticas do segundo semestre 1982</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra20.php" class="unit-1 text-center">
+                        <a href="obra20.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra20.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Placa dos Concluintes do
+                                    curso de Licenciatura em Ciências Domésticas de 1983</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra21.php" class="unit-1 text-center">
+                        <a href="obra21.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra21.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Sem Título</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra22.php" class="unit-1 text-center">
+                        <a href="obra22.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra22.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Primeira Placa de Formatura do Curso 1977</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra23.php" class="unit-1 text-center">
+                        <a href="obra23.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra23.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
-                                <h3 class="unit-1-heading">Local: DEPARTAMENTO DE ECONOMIA DOMÉSTICA</h3>
                             </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-                        <a href="obra24.php" class="unit-1 text-center">
+                        <a href="obra24.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra24.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
+                                <p class="unit-1-heading padding-acervo">Local: FACHADA DO ANTIGO PRÉDIO DO DEPARTAMENTO
+                                    DE PESCA</p>
                                 <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
-                                <h3 class="unit-1-heading">Local: FACHADA DO ANTIGO PRÉDIO DO DEPARTAMENTO DE PESCA</h3>
                             </div>
                         </a>
                     </div>
@@ -266,7 +280,7 @@
 
         </div>
 
-        <div class="site-section bg-light">
+        <div id="outras_informacoes" class="site-section bg-light">
             <div class="container">
                 <div class="row justify-content-center mb-5">
                     <div class="col-md-7 text-center">
@@ -363,7 +377,9 @@
                         <h3 class="mb-5 text-black">Tour virtual de visitação às obras de artes visuais - murais,
                             painéis e esculturas - do campus de Dois Irmãos da Universidade Federal Rural de Pernambuco
                             - UFRPE.</h3>
-                            <p class="mb-0"><a href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM" class="btn btn-orange hover-black py-3 px-5">Nosso Google Tour</a></p>
+                        <p class="mb-0"><a
+                                href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM"
+                                class="btn btn-orange hover-black py-3 px-5">Nosso Google Tour</a></p>
                         </p>
                     </div>
                 </div>

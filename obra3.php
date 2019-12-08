@@ -41,7 +41,7 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Busto do Prof. Francisco de Oliveira Magalhães <br>
-                                <b>Autor(a):</b> Laércio Dias Braga <br>
+                                <b>Autor:</b> Laércio Dias Braga <br>
                                 <b>Técnica:</b> Escultura <br>
                                 <b>Materiais:</b> Madeira <br>
                                 <b>Dimensão:</b> 0,54cm (altura) x 0,46cm (comprimento) x 0,34cm (profundidade) <br>
@@ -90,10 +90,6 @@
 
                 <div class="container titleModal">
 
-                    <h3><br>Texto a ser definido</a></h3>
-
-                    <p>Texto a ser definido</p>
-
                     <?php
                         $id_galeria = "jssor_body";
                         include "galeria_begin.php";
@@ -107,11 +103,6 @@
                 </div>
 
             </section>
-            <div class="col-md-12 col-lg-12 mb-4 mb-lg-4">
-                <h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img
-                        style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
-            </div>
 
             </br></br></br>
             <div class="site-section backorange">
