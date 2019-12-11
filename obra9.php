@@ -70,9 +70,7 @@
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
-                            <p>
-                                Texto a ser definido.
-                            </p>
+                            <p> Nos contate caso saiba mais sobre a obra. </p>
                         </div>
                     </div>
 
