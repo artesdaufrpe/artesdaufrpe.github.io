@@ -110,7 +110,7 @@
                             <img id="imgs-galeria" src="images/galeria/obra8.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
                                 <p class="unit-1-heading padding-acervo">Dom Quixote de La Rural</p>
-                                <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
+                                <strong class="text-primary mb-2 d-block">Autor: JOSÉ RODRIGUES CORREIA FILHO e LINDAMY VIEGAS COUTINHO</strong>
                             </div>
                         </a>
                     </div>

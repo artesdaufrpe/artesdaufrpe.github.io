@@ -57,7 +57,7 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h3>Sobre o Autor</h3>
+                            <h3>Sobre a Autora</h3>
                             <p>
                                 <?php include "html/autores/inalda-xavier.html" ?>
                             </p>
