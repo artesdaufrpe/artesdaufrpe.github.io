@@ -57,18 +57,6 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h3>Sobre os Autores</h3>
-                            <p>
-                                <?php include "html/autores/jose-lindamy.html" ?>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
-                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
-                        </figure>
-                        <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
                                 De acordo com relatos de professores e pessoas envolvidas na concepção da obra, ela foi

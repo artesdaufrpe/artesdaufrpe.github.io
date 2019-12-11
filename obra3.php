@@ -59,18 +59,6 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
-                            <h3>Sobre o Autor</h3>
-                            <p>
-                                <?php include "html/autores/laercio.html" ?>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
-                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
-                        </figure>
-                        <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
                                 Sobre o busto em Homenagem ao professor Francisco, o Sr Luciano nos repassou as

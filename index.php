@@ -44,7 +44,7 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="800">
-              <h3 class="text-white font-weight-light">Busto do Prof. Francisco de Oliveira Magalhães, 2010</h3>
+              <h3 class="text-white font-weight-light">Busto do Prof. Francisco O. Magalhães, 2010</h3>
               <p class="mb-5 text-orange"><b>Autor:</b> Laércio Dias Braga</p>
               <p><a href="obra3.php" class="btn btn-orange py-3 px-5 text-white">Visitar obra ></a></p>
             </div>

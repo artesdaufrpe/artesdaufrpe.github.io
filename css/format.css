@@ -12,6 +12,17 @@ body {
     height: calc(100vh - 1000px);
 }
 
+@media (max-width: 768px){
+    .site-blocks-cover, .site-blocks-cover .row {
+        min-height: auto;
+        height: 405px;
+    }
+}
+
+.col-md-8 {
+    width: auto;
+}
+
 /* .row>.column {
     padding: 0 8px;
 } */
