@@ -368,23 +368,9 @@
             </div>
         </div> -->
 
-        <?php include "html/vejamais.html" ?>
+        <?php //include "html/vejamais.html" ?>
 
-        <div class="site-section border-top">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-md-12">
-                        <h3 class="mb-5 text-black">Tour virtual de visitação às obras de artes visuais - murais,
-                            painéis e esculturas - do campus de Dois Irmãos da Universidade Federal Rural de Pernambuco
-                            - UFRPE.</h3>
-                        <p class="mb-0"><a
-                                href="https://tourbuilder.withgoogle.com/builder#play/ahJzfmd3ZWItdG91cmJ1aWxkZXJyEQsSBFRvdXIYgICgo9OwkQkM"
-                                class="btn btn-orange hover-black py-3 px-5">Nosso Google Tour</a></p>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include "html/tour_virtual.html" ?>
 
         <?php include "html/footer.html" ?>
 
