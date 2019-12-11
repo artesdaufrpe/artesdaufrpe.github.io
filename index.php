@@ -90,14 +90,17 @@
 
     <div class="site-section backgreen">
       <div class="container">
+      <h1 class="text-white-grey text-center h1"> Principais Artistas </h1><br/>
         <div class="row align-items-stretch">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div class="text-white-grey">
-                <h3>Texto 1</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
+                <h3>Corbiniano Lins</h3>
+                <p>É o artista com mais obras espalhadas pela universidade, sendo 13 no total incluindo 7 esculturas 
+                  e 6 placas de conclusão de curso. As suas obras na Universidade têm como tema os elementos que compõem o
+                  brasão da instituição, a agricultura e o trabalhador rural.</p>
+                <p><a href="art-corbiniano.php" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>
@@ -105,9 +108,10 @@
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div class="text-white-grey">
-                <h3>Texto 2</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
+                <h3>Inalda Xavier</h3>
+                <p>Principal homenageada do projeto, a artista participou dos principais grupos e movimentos da história da arte de Pernambuco.
+Participou da Sociedade de Arte Moderna do Recife. Inalda ministrou disciplinas de artes na UFRPE.</p><br/>
+                <p><a href="art-inalda-xavier.php" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>
@@ -115,9 +119,14 @@
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary"><img style="width:100px" src="images/LOGO_branca.png"></span></div>
               <div class="text-white-grey">
-                <h3>Texto 3</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
+                <h3>Christina Machado</h3>
+                <p>
+                Licenciada em Artes Plásticas pela
+Universidade Federal de Pernambuco. Na década de 1980, aproximou-se da
+cerâmica, material que passou a experimentar intensamente, desenvolvendo
+projetos arquitetônicos e obras públicas.
+                </p>
+                <p><a href="art-christina-machado.php" class="btn btn-orange py-1 px-3 text-white">Leia mais</a></p>
               </div>
             </div>
           </div>

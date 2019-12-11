@@ -58,7 +58,12 @@
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
-                            <p> Contate-nos se você tem mais informações sobre a obra </p>
+                            <p> Ela está localizada numa sala nas dependências internas da Biblioteca Central da UFRPE. São, na verdade,
+                                 duas pintadas de dimensões grandes: a primeira, com 1,90m de altura e 3,94m de largura, retrata 
+                                 trabalhadores agrícolas da colheita de cana-de-açúcar e crianças em um ambiente rural. 
+                                 Na parede do lado esquerdo desta primeira pintura, encontra-se outro mural medindo 2,60m de altura e 2,75m 
+                                 de largura, este retratando um cenário ambientado na academia, composto por imagens de estudantes e 
+                                 pesquisadores com pranchetas ou sentados em cadeiras. </p>
                         </div>
                     </div>
 
