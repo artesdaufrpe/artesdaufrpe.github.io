@@ -40,7 +40,7 @@
                         <a href="obra1.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra1.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Sem Título</p>
+                                <p class="unit-1-heading padding-acervo">Local: Subsolo do prédio CEGOE</p>
                                 <strong class="text-orange mb-2 d-block">Autora: CHRISTINA MACHADO</strong>
                             </div>
                         </a>
@@ -80,9 +80,9 @@
                         <a href="obra5.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra5.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Brigada Portinari<br>
+                                <p class="unit-1-heading padding-acervo">Local: Biblioteca Central<br>
                                     (Paineis 01 e 02)</p>
-                                <strong class="text-primary mb-2 d-block">Autor: DESCONHECIDO</strong>
+                                <strong class="text-primary mb-2 d-block">Autor: BRIGADA PORTINARI</strong>
                             </div>
                         </a>
                     </div>
@@ -118,7 +118,7 @@
                         <a href="obra9.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra9.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Desconhecido</p>
+                                <p class="unit-1-heading padding-acervo">Local: Prédio Otávio Gomes</p>
                                 <strong class="text-primary mb-2 d-block">Autora: INALDA XAVIER</strong>
                             </div>
                         </a>
@@ -128,7 +128,7 @@
                         <a href="obra10.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra10.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Desconhecido</p>
+                                <p class="unit-1-heading padding-acervo">Local: Salão Nobre</p>
                                 <strong class="text-primary mb-2 d-block">Autor: LULA CARDOSO AYRES</strong>
                             </div>
                         </a>
@@ -147,7 +147,7 @@
                         <a href="obra12.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra12.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Sem Títlo</p>
+                                <p class="unit-1-heading padding-acervo">Local: Departamento de Ciências do Consumo</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
                             </div>
                         </a>
@@ -240,7 +240,7 @@
                         <a href="obra21.php" class="unit-1 text-center" title="Visitar obra">
                             <img id="imgs-galeria" src="images/galeria/obra21.jpg" alt="Image" class="img-fluid">
                             <div class="unit-1-text">
-                                <p class="unit-1-heading padding-acervo">Sem Título</p>
+                                <p class="unit-1-heading padding-acervo">Local: Departamento de Ciências do Consumo</p>
                                 <strong class="text-primary mb-2 d-block">Autor: CORBINIANO LINS</strong>
                             </div>
                         </a>
