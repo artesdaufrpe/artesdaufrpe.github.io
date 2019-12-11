@@ -31,7 +31,7 @@
 
             <?php include "html/contato.html" ?>
 
-            <?php include "html/vejamais.html" ?>
+            <!-- <?php include "html/vejamais.html" ?>
 
             <div class="site-section border-top">
                 <div class="container">
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <?php include "html/footer.html" ?>
 
