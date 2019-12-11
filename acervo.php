@@ -280,7 +280,7 @@
 
         </div>
 
-        <div id="outras_informacoes" class="site-section bg-light">
+        <!-- <div id="outras_informacoes" class="site-section bg-light">
             <div class="container">
                 <div class="row justify-content-center mb-5">
                     <div class="col-md-7 text-center">
@@ -366,7 +366,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <?php include "html/vejamais.html" ?>
 
