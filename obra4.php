@@ -41,12 +41,12 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sesquicentenário dos cursos de Ciências Agrárias da UFRPE <br>
-                                <b>Autor(a):</b> Corbiniano Lins <br>
-                                <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 0,95 (L) x 1,98 (A) <br>
                                 <b>Data:</b> 1987 <br>
-                                <b>Localização:</b> Praça do SINTUFEPE <br>
+                                <b>Autor(a):</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 1,98m x 95cm <br>
+                                <b>Técnica:</b> Escultura (alto relevo) <br>
+                                <b>Materiais:</b> Granito <br>                                
+                                <b>Localização:</b> Praça do SINTUFERPE <br>
                             </p>
                             </br>
                         </div>
@@ -71,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                            Possui uma placa indicando: Sesquincentenário dos cursos de Ciências Agrárias da UFRPE.
+                            Obra comemorativa dos 75 anos da UFRPE.
                             </p>
                         </div>
                     </div>

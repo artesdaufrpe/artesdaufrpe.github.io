@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Título <br>
+                                <b>Data:</b> 1999 <br>
                                 <b>Autora:</b> Christina Machado <br>
+                                <b>Dimensões:</b> 2,4m x 25,6m <br>
                                 <b>Técnica:</b> Mista <br>
                                 <b>Materiais:</b> Cerâmica e pigmentos <br>
-                                <b>Dimensão:</b> 25,60m (largura) x 2,4m (altura) <br>
-                                <b>Data:</b> 1999 <br>
                                 <b>Localização:</b> Subsolo do prédio CEGOE <br>
                             </p>
                             </br>

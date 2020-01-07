@@ -39,13 +39,13 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
                             <p>
-                                <b>Título:</b> Desconhecido <br>
+                                <b>Título:</b> Sem Título <br>
+                                <b>Data:</b> 1978 <br>
                                 <b>Autor(a):</b> Inalda Xavier <br>
+                                <b>Dimensões:</b> 2,65m x 12,06m x 3cm <br>
                                 <b>Talhador(a):</b> Cristiano <br>                                 
                                 <b>Técnica:</b> Talha <br>
                                 <b>Materiais:</b> Madeira <br>
-                                <b>Dimensão:</b> 12,06 (L) x 2,65 (A) x 0,03 (P) <br>
-                                <b>Data:</b> 1978 <br>
                                 <b>Localização:</b> Prédio Otávio Gomes <br>
                             </p>
                             </br>
@@ -70,7 +70,11 @@
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
-                            <p> Nos contate caso saiba mais sobre a obra. </p>
+                            <p> A obra, datada de 1978, foi realizada a pedido do Reitor à época, o senhor Humberto Carneiro, 
+                                apreciador das artes e professor do Departamento de Agronomia. A obra consiste em uma talha em madeira 
+                                que retrata cenas do sertão nordestino, revelando a forte presença do papel feminino nesse contexto. 
+                                Ressalta-se que a artista foi professora da UFRPE, com atuação no curso de Ciências Domésticas. Como artista, 
+                                Inalda era reconhecida no cenário Pernambuco e mundial, a partir de suas obras de litografia e xilogravura. </p>
                         </div>
                     </div>
 

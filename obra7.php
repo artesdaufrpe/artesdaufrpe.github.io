@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> A Semeadora <br>
+                                <b>Data:</b> Sem data <br>
                                 <b>Autor(a):</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 2,16m x 58cm x 56cm <br>
                                 <b>Técnica:</b> Escultura <br>
                                 <b>Materiais:</b> Concreto <br>
-                                <b>Dimensão:</b> 0,58 (L) x 2,16 (A) x 0,56 (P) <br>
-                                <b>Data:</b> Desconhecido <br>
                                 <b>Localização:</b> PROPLAN (Área externa) <br>
                             </p>
                             </br>
@@ -70,11 +70,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Conceição (da Biblioteca Central): sobre a escultura da Semeadora ( deusa da
-                                agricultura) e sobre o seu contexto histórico ( data, quem solicitou sua instalação,
-                                etc) poderá ser obtida com o pessoal da Pró reitoria de planejamento, mais
-                                especificamente com o Pro reitor. Acredita que sua instalação tenha ocorrido nos anos
-                                80.
+                                Em investigação
                             </p>
                         </div>
                     </div>

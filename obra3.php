@@ -41,14 +41,13 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Busto do Prof. Francisco de Oliveira Magalhães <br>
+                                <b>Data:</b> 2010 <br>
                                 <b>Autor:</b> Laércio Dias Braga <br>
+                                <b>Dimensões:</b> 54cm x 46cm x 34cm <br>
+                                * Observação: medida aproximada <br>
                                 <b>Técnica:</b> Escultura <br>
                                 <b>Materiais:</b> Madeira <br>
-                                <b>Dimensão:</b> 0,54cm (altura) x 0,46cm (comprimento) x 0,34cm (profundidade) <br>
-                                * Observação: medida aproximada <br>
-                                <b>Data:</b> 2010 <br>
-                                <b>Localização:</b> Praça em frente ao Sindicato dos Servidores Técnicos da UFRPE -
-                                SINTURFEPE <br>
+                                <b>Localização:</b> Praça em frente ao Sindicato dos Servidores Técnicos da UFRPE - SINTUFERPE <br>
                             </p>
                             </br>
                         </div>
@@ -59,17 +58,24 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
+                            <h3>Sobre o Autor</h3>
+                            <p>
+                                Informação em construção.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
+                        </figure>
+                        <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Sobre o busto em Homenagem ao professor Francisco, o Sr Luciano nos repassou as
-                                seguintes informações:
-                                Que na época dessa homenagem a família do professor esteve presente, que ele tem uma
-                                filha que é professora
-                                da Rural (buscar informações e contato sobre a mesma no sindicato), sobre o evento e a
-                                inauguração da praça
-                                há um registro em ata no sinduferpe com todas as informações do evento. A ideia dessa
-                                homenagem partiu do
-                                professor Espinhara muito amigo do prof. Francisco.
+                            A obra foi feita em homenagem ao professor Francisco de Oliveira Magalhães, ex-diretor do departamento de Química da UFRPE, 
+                            que alcançou a primeira colocação na consulta para Reitor no ano de 1993, junto com o movimento Gestão Coletiva, 
+                            mas que não foi nomeado pelo então Ministro da Educação, Paulo Renato, no governo de Fernando Henrique Cardoso. 
+                            Essa história, nos dias atuais, vem sendo fortemente relembrada devido a casos semelhantes vivenciados recentemente no país.
                             </p>
                         </div>
                     </div>

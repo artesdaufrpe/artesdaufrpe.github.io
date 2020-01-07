@@ -39,12 +39,12 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
                             <p>
-                                <b>Título:</b> Desconhecido <br>
+                                <b>Título:</b> Sem Título <br>
+                                <b>Data:</b> 1957 <br>
                                 <b>Autor(a):</b> Lula Cardoso Ayres <br>
+                                <b>Dimensões:</b> Não catalogada <br>
                                 <b>Técnica:</b> Pintura <br>
                                 <b>Materiais:</b> Desconhecido <br>
-                                <b>Dimensão:</b> Desconhecido <br>
-                                <b>Data:</b> 1957 <br>
                                 <b>Localização:</b> Salão Nobre <br>
                             </p>
                             </br>
@@ -70,11 +70,10 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Conceição (da Biblioteca Central): sobre a escultura da Semeadora ( deusa da
-                                agricultura) e sobre o seu contexto histórico ( data, quem solicitou sua instalação,
-                                etc) poderá ser obtida com o pessoal da Pró reitoria de planejamento, mais
-                                especificamente com o Pro reitor. Acredita que sua instalação tenha ocorrido nos anos
-                                80.
+                            Uma das obras mais emblemáticas da universidade. Esse painel ambienta o Salão Nobre da universidade. Ele foi pintado em 
+                            1957 e retrata a história da universidade, a partir de imagens que representam as áreas geográficas de Pernambuco e cenas 
+                            ligadas à agricultura e à pecuária. Na época de sua idealização a UFRPE ofertava, na cidade de Recife, apenas os cursos de 
+                            Agronomia e de Medicina Veterinária e por isso, sua identidade era essencialmente rural.
                             </p>
                         </div>
                     </div>

@@ -41,14 +41,27 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Dom Quixote de La Rural <br>
-                                <b>Autor(a):</b> José Rodrigues Correia Filho e Lindamy Viegas Coutinho <br>
+                                <b>Data:</b> 2003 <br>
+                                <b>Autor(a):</b> A obra foi desenvolvida de forma coletiva por professores, estudantes e outros profissionais da UFRPE, 
+                                incluindo José Rodrigues Correia Filho, Lindamy Viegas Coutinho entre outros (em fase de investigação) <br>
+                                <b>Dimensões:</b> 2,60m x 1,86m x 85cm <br>
                                 <b>Técnica:</b> Escultura <br>
                                 <b>Materiais:</b> Sucata <br>
-                                <b>Dimensão:</b> 1,86 (L) x 2,60 (A) x 0,85 (P) <br>
-                                <b>Data:</b> 2003 <br>
                                 <b>Localização:</b> Área externa do Departamento de Tecnologia Rural <br>
                             </p>
                             </br>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
+                        </figure>
+                        <div class="col-lg-11 col-sm-10 featured-work">
+                            <h3>Sobre o Autor</h3>
+                            <p>
+                                Em fase de investigação
+                            </p>
                         </div>
                     </div>
 

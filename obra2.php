@@ -41,11 +41,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> 90 anos dos cursos de ciências agrárias da UFRPE <br>
+                                <b>Data:</b> 2002 <br>
                                 <b>Autor:</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 1m x 90cm <br>
                                 <b>Técnica:</b> Escultura (alto relevo) <br>
                                 <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 0,90 (L) x 1,00 (A) <br>
-                                <b>Data:</b> 2002 <br>
                                 <b>Localização:</b> Entrada do Anfiteatro do CEGOE <br>
                             </p>
                             </br>
@@ -71,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                            Foi colocada na comemoração dos (90 anos da UFRPE).
+                            Obra comemorativa dos 90 anos da UFRPE.
                             </p>
                         </div>
                     </div>
