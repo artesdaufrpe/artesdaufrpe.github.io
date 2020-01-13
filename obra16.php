@@ -41,11 +41,11 @@
                             <p>
                                 <b>Título:</b> Placa dos Concluintes do curso de Licenciatura em Ciências Domésticas do
                                 segundo semestre de 1979 <br>
-                                <b>Autor:</b> Corbiniano Lins <br>
-                                <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 1,50m (A) x 0,43m (L) <br>
                                 <b>Data:</b> julho de 1979 <br>
+                                <b>Autor:</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 1,50m x 43cm <br>
+                                <b>Técnica:</b> Escultura (alto relevo) <br>
+                                <b>Materiais:</b> Granito <br>                                                                
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas) <br>
                             </p>
                             </br>
@@ -71,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Placa de formatura dos estudantes concluintes do curso de Licenciatura em Ciências Domésticas  de 1979.2.
                             </p>
                         </div>
                     </div>

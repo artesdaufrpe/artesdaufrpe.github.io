@@ -41,11 +41,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Placa dos Concluintes do curso de Licenciatura em Ciências Domésticas de 1977 <br>
-                                <b>Autor:</b> Corbiniano Lins <br>
-                                <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 77cm (L) x 70cm (A) <br>
                                 <b>Data:</b> 1977 <br>
+                                <b>Autor:</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 70cm x 77cm <br>
+                                <b>Técnica:</b> Escultura (alto relevo) <br>
+                                <b>Materiais:</b> Granito <br>                                                                
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas) <br>
                             </p>
                             </br>
@@ -71,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Placa de formatura dos estudantes concluintes do curso de Licenciatura em Ciências Domésticas do ano de 1977.
                             </p>
                         </div>
                     </div>

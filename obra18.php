@@ -42,11 +42,11 @@
                             <p>
                                 <b>Título:</b> Placa dos Concluintes do curso de Licenciatura em Ciências Domésticas do
                                 primeiro semestre 1982 <br>
-                                <b>Autor(a):</b> Desconhecido <br>
-                                <b>Técnica:</b> Talha <br>
-                                <b>Materiais:</b> Madeira <br>
-                                <b>Dimensão:</b> 51cm (A) x 34cm (L) <br>
                                 <b>Data:</b> 1982 <br>
+                                <b>Autor(a):</b> Desconhecido <br>
+                                <b>Dimensões:</b> 51cm x 34cm <br>
+                                <b>Técnica:</b> Talha <br>
+                                <b>Materiais:</b> Madeira <br>                                                                
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas) <br>
                             </p>
                             </br>
@@ -58,9 +58,21 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
+                            <h3>Sobre o Autor</h3>
+                            <p>
+                                Desconhecido.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
+                        </figure>
+                        <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Placa de formatura dos estudantes concluintes do curso de Licenciatura em Ciências Domésticas de 1982.1.
                             </p>
                         </div>
                     </div>

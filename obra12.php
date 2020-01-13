@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Títlo <br>
+                                <b>Data:</b> 1992 <br>
                                 <b>Autor(a):</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 1,16m x 78cm <br>
                                 <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 0,78m (A) x 1,16m (L) <br>
-                                <b>Data:</b> Desconhecido <br>
+                                <b>Materiais:</b> Granito <br>                            
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas)<br>
                             </p>
                             </br>
@@ -70,11 +70,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Conceição (da Biblioteca Central): sobre a escultura da Semeadora ( deusa da
-                                agricultura) e sobre o seu contexto histórico ( data, quem solicitou sua instalação,
-                                etc) poderá ser obtida com o pessoal da Pró reitoria de planejamento, mais
-                                especificamente com o Pro reitor. Acredita que sua instalação tenha ocorrido nos anos
-                                80.
+                                Em fase de investigação
                             </p>
                         </div>
                     </div>

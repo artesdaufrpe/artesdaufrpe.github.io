@@ -40,13 +40,12 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Ficha Técnica</h3>
                             <p>
-                                <b>Título:</b> Placa dos Concluintes do curso de Licenciatura em Ciências Domésticas de
-                                1981 <br>
-                                <b>Autor:</b> Francisco Neves <br>
-                                <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Metal <br>
-                                <b>Dimensão:</b> 67cm (A) x 49cm (L) <br>
+                                <b>Título:</b> Placa dos Concluintes do curso de Licenciatura em Ciências Domésticas de 1981 <br>
                                 <b>Data:</b> 1981 <br>
+                                <b>Autor:</b> Francisco Neves <br>
+                                <b>Dimensões:</b> 67cm x 49cm <br>
+                                <b>Técnica:</b> Escultura (alto relevo) <br>
+                                <b>Materiais:</b> Metal <br>                                                                
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas)<br>
                             </p>
                             </br>
@@ -72,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Placa de formatura dos estudantes concluintes do curso de Licenciatura em Ciências Domésticas de 1981.
                             </p>
                         </div>
                     </div>
