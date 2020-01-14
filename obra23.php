@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Título <br>
-                                <b>Autor:</b> Corbiniano Lins <br>
-                                <b>Técnica:</b> Escultura <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 40cm (L) x 60cm (A) x 30cm (P) <br>
                                 <b>Data:</b> 1979 <br>
+                                <b>Autor:</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 60cm x 40cm x 30cm <br>
+                                <b>Técnica:</b> Escultura <br>
+                                <b>Materiais:</b> Granito <br>                                                                
                                 <b>Patrimônio:</b> 87257/79 <br>
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas) <br>
                             </p>
@@ -71,7 +71,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Em fase de investigação.
                             </p>
                         </div>
                     </div>

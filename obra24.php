@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Título <br>
+                                <b>Data:</b> Desconhecido <br>
                                 <b>Autor(a):</b> Desconhecido <br>
+                                <b>Dimensões:</b> 84cm x 8,6m <br>
                                 <b>Técnica:</b> Mosáico em Azulejo <br>
                                 <b>Materiais:</b> Azulejo <br>
-                                <b>Dimensão:</b> 84cm (A) x 8,6m² (L) <br>
-                                <b>Data:</b> Desconhecido <br>
                                 <b>Localização:</b> Fachada do Antigo prédio do Departamento de Pesca<br>
                             </p>
                             </br>
@@ -56,9 +56,21 @@
                             <img style="width:70px;" src="images/LOGO_color.png" alt="">
                         </figure>
                         <div class="col-lg-11 col-sm-10 featured-work">
+                            <h3>Sobre o Autor</h3>
+                            <p>
+                                Não conhecido, em fase de investigação.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <figure class="col-lg-1 col-sm-2 wow fadeInLeft">
+                            <img style="width:70px;" src="images/LOGO_color.png" alt="">
+                        </figure>
+                        <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Em fase de investigação.
                             </p>
                         </div>
                     </div>

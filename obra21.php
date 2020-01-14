@@ -40,11 +40,11 @@
                             <h3>Ficha Técnica</h3>
                             <p>
                                 <b>Título:</b> Sem Título <br>
-                                <b>Autor:</b> Corbiniano Lins <br>
-                                <b>Técnica:</b> Escultura (alto relevo) <br>
-                                <b>Materiais:</b> Granito <br>
-                                <b>Dimensão:</b> 37cm(L) x 43cm(A) <br>
                                 <b>Data:</b> Desconhecida <br>
+                                <b>Autor:</b> Corbiniano Lins <br>
+                                <b>Dimensões:</b> 43cm x 37cm <br>
+                                <b>Técnica:</b> Escultura (alto relevo) <br>
+                                <b>Materiais:</b> Granito <br>                                                                
                                 <b>Localização:</b> Departamento de Ciências do Consumo (antigo Departamento de Ciências Domésticas) <br>
                             </p>
                             </br>
@@ -70,7 +70,7 @@
                         <div class="col-lg-11 col-sm-10 featured-work">
                             <h3>Sobre a Obra</h3>
                             <p>
-                                Texto a ser definido.
+                                Em fase de investigação.
                             </p>
                         </div>
                     </div>
