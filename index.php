@@ -101,7 +101,7 @@
                         <div>
                             <div class="row row-art-principal">
                                 <div class="col unit-4-icon mr-4">
-                                    <span class="text-primary"><img src="images/foto3x4.jpg"></span>
+                                    <span class="text-primary"><img src="images/artistas/Corbiniano-Lins.png"></span>
                                 </div>
                                 <div class="col text-white-grey div-text-bottom">
                                     <div><span><h5>Corbiniano Lins</h5></span></div>
@@ -123,7 +123,7 @@
                         <div>
                             <div class="row row-art-principal">
                                 <div class="col unit-4-icon mr-4">
-                                    <span class="text-primary"><img src="images/foto3x4.jpg"></span>
+                                    <span class="text-primary"><img src="images/artistas/Inalda-Xavier.png"></span>
                                 </div>
                                 <div class="col text-white-grey div-text-bottom">
                                     <div><span><h5>Inalda Xavier</h5></span></div>
@@ -146,7 +146,7 @@
                         <div>
                             <div class="row row-art-principal">
                                 <div class="col unit-4-icon mr-4">
-                                    <span class="text-primary"><img src="images/foto3x4.jpg"></span>
+                                    <span class="text-primary"><img src="images/artistas/Christina-Machado.png"></span>
                                 </div>
                                 <div class="col text-white-grey div-text-bottom">
                                     <div><span><h5>Christina Machado</h5></span></div>

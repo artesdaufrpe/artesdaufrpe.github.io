@@ -1,6 +1,9 @@
 ﻿<div class = "ver-galeria-body">
-<h5 class="font-size-regular titleModal" title="Tela cheia"><a href="#"
-                        onclick="openModal();currentSlide(1)"><br>Ver galeria </a><img style="width:20px; cursor:pointer;" src="images/full-screen.png"></h5>
+    <h5 class="font-size-regular titleModal" style="padding-bottom: 20px;" title="Tela cheia">
+        <a href="#" class="btn btn-orange py-1 px-3 hover-black" onclick="openModal();currentSlide(1)">
+            Ver galeria
+        </a>
+    </h5>
 </div>
 
 <div style="padding:0px; margin:0px; font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">

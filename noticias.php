@@ -60,6 +60,11 @@
         </div>
 
         <?php include "html/scripts.html" ?>
+        <script>
+            $(document).ready(function() {
+                $("iframe").contents().find('#imagensTopo').hide();
+            });
+        </script>
 
 </body>
 
